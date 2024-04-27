@@ -43,19 +43,19 @@
     <div style="display: flex; flex-wrap: wrap;">
         <div style="text-align: center; margin-right: 20px; margin-bottom: 20px;">
             <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin-bottom: 5px;">
-                <img src="imagens/Davi.png" alt="Rafael" style="width: 100%; height: 100%; object-fit: cover;">
+                <img src="imagens/rafa.png" alt="Rafael" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
             <p>Rafael</p>
         </div>
         <div style="text-align: center; margin-right: 20px; margin-bottom: 20px;">
             <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin-bottom: 5px;">
-                <img src="imagens/Davi.png" alt="Pedro" style="width: 100%; height: 100%; object-fit: cover;">
+                <img src="imagens/lock.jpeg" alt="Pedro" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
             <p>Pedro</p>
         </div>
         <div style="text-align: center; margin-right: 20px; margin-bottom: 20px;">
             <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin-bottom: 5px;">
-                <img src="imagens/Davi.png" alt="Maria Clara" style="width: 100%; height: 100%; object-fit: cover;">
+                <img src="imagens/clara.png" alt="Maria Clara" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
             <p>Maria Clara</p>
         </div>
