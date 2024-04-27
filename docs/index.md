@@ -1,4 +1,4 @@
-# Queridinhas da Licitação os mais tops
+# Queridinhas da Licitação
 
 ## Projeto de Transparência nos Gastos Públicos - MDS UnB
 
