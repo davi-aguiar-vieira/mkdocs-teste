@@ -1,5 +1,6 @@
-site_name: Queridinhas da licitação
-theme: 
+site_name: MkDocs YouTube Tutorial
+site_url: https://james-willett.github.io/mkdocs-material-youtube-tutorial/
+theme:
   name: material
   features:
     - navigation.tabs
@@ -14,8 +15,41 @@ theme:
   language: en
   palette:
     - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
       primary: teal
-      accent: purple
-    - scheme: slate
+      accent: purple 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
       primary: teal
-      accent: lime 
+      accent: lime
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/davi-aguiar-vieira
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin 
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
