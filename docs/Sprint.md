@@ -166,5 +166,34 @@
   </ul>
 </details>
 
+<details class="custom-details">
+  <summary style="font-weight: bold;">SPRINT 5</summary>
+  <h2>Sprint 5</h2>
+  <p><strong>Período:</strong> 15/04/2024 a 22/04/2024</p>
+
+  <h3>Novo método para coletar os dados do PNCP</h3>
+  <p><strong>Descrição:</strong><br>
+  Nesta Sprint, inicialmente, cada participante apresentou para o grupo o que realizou durante a semana e como está o andamento do projeto. Após isso, foi apresentada a nova maneira que seria feita a coleta de dados do PCNP, que não consistiria mais em fazer uma raspagem direta dos dados do PNCP e sim da API fornecida pelo próprio Portal. Após isso, foram passadas as novas tarefas, que seriam essas: Consumir os dados da API do PNCP e implementá-los os dados do arquivo JSON para um banco de dados, desenvolvimento da lógica para recuperar os dados de maiores valores das empresas, implementação e melhoria do site do projeto e desenvolvimento do cadastro e do login do usuário.</p>
+
+  <h3>Reunião 6</h3>
+  <p><strong>Data:</strong> 17/04/2024<br>
+  <strong>Local:</strong> Discord</p>
+
+  <h4>Tarefas Entregues:</h4>
+  <ul>
+    <li>Criação do esboço do site no Figma</li>
+    <li>Diagrama da arquitetura</li>
+    <li>Molde da arquitetura do projeto</li>
+    <li>Apresentação da API do PNCP</li>
+    <li>Criação do código de cadastro e login do usuário</li>
+  </ul>
+
+  <h4>Recursos de Estudo:</h4>
+  <ul>
+    <li>API do Portal Nacional de Contratações Públicas</li>
+    <li>Figma</li>
+  </ul>
+</details>
+
 </body>
 </html>
