@@ -36,6 +36,7 @@ jobs:
           if git diff --quiet; then
             echo "No changes detected, skipping commit."
             exit 0
+          fi
 
       - name: Commit and push changes
         if: success()
