@@ -110,4 +110,4 @@ with open('Dados/contratos_OFICIAL.json', 'w', encoding='utf-8') as f:
     
     f.seek(f.tell() - 2)  # Move o cursor de escrita de volta 2 caracteres (removendo a última vírgula e o caractere de nova linha)
     f.truncate()  # Remove os caracteres indesejados
-    f.write('\n]')  # Escreve o fechamento da lista
+    f.write('\n]')  # Escreve o fechamento da lista1
