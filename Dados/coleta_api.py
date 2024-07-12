@@ -3,55 +3,55 @@ import json
 import logging
 
 # Configure logging
-logging.basicConfig(filename='app.log', filemode='w', format='%(name)s - %(levelname)s - %(message)s', level=logging.INFO)
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def get_resultados(session, contrato):
     empresasContratadas = {}
 
+    codigo = contrato['numeroControlePNCP'].split('-')[0]
+    ano = contrato['anoCompra']
+    sequencial = contrato['numeroControlePNCP'].split('-')[2].split('/')[0]
+
+    # Abaixo fiz o request para saber o número de itens de cada contratação
+    link_nItem = f'https://pncp.gov.br/api/pncp/v1/orgaos/{codigo}/compras/{ano}/{sequencial}/itens/quantidade'
+    requestItem = session.get(link_nItem, headers={'accept': '*/*'})
     try:
-        codigo = contrato['numeroControlePNCP'].split('-')[0]
-        ano = contrato['anoCompra']
-        sequencial = contrato['numeroControlePNCP'].split('-')[2].split('/')[0]
+        nItens = requestItem.json()
+    except json.JSONDecodeError:
+        logging.error(f"JSON decode error for {link_nItem}")
+        return None
 
-        link_nItem = f'https://pncp.gov.br/api/pncp/v1/orgaos/{codigo}/compras/{ano}/{sequencial}/itens/quantidade'
-        requestItem = session.get(link_nItem, headers={'accept': '*/*'})
-        if requestItem.status_code == 200:
-            try:
-                nItens = requestItem.json()
-            except json.JSONDecodeError:
-                logging.error(f"Error decoding JSON from {link_nItem}")
+    if requestItem.status_code == 200 and nItens != 0:
+        for i in range(1, nItens + 1):
+            # Request para pegar os resultados de cada item
+            url = f'https://pncp.gov.br/api/pncp/v1/orgaos/{codigo}/compras/{ano}/{sequencial}/itens/{i}/resultados'
+            response = session.get(url, headers={'accept': '*/*'})
+
+            # Request para pegar outros detalhes da contratação
+            url_descricao = f'https://pncp.gov.br/api/pncp/v1/orgaos/{codigo}/compras/{ano}/{sequencial}/itens/{i}'
+            request_descricao = session.get(url_descricao, headers={'accept': '*/*'})
+
+            if response.status_code == 200 and request_descricao.status_code == 200:
+                try:
+                    data = response.json()  # JSON dos resultados do item escolhido
+                    data_descricao = request_descricao.json()  # JSON da descrição do serviço, com base no item
+                except json.JSONDecodeError:
+                    logging.error(f"JSON decode error for item {i}")
+                    return None
+
+                if data:
+                    resultadoItem = data[0]
+                    empresasContratadas[f'Empresa Contratada -{i}'] = resultadoItem['nomeRazaoSocialFornecedor']
+                    empresasContratadas[f'CNPJ -{i}'] = resultadoItem["niFornecedor"]
+                    empresasContratadas[f'Valor Recebido -{i}'] = resultadoItem["valorTotalHomologado"]
+                    empresasContratadas[f'Descrição -{i}'] = data_descricao["descricao"]
+            else:
+                logging.error(f"Request failed for item {i}: {response.status_code} or {request_descricao.status_code}")
                 return None
-
-            if nItens != 0:
-                for i in range(1, nItens + 1):
-                    url = f'https://pncp.gov.br/api/pncp/v1/orgaos/{codigo}/compras/{ano}/{sequencial}/itens/{i}/resultados'
-                    response = session.get(url, headers={'accept': '*/*'})
-
-                    url_descricao = f'https://pncp.gov.br/api/pncp/v1/orgaos/{codigo}/compras/{ano}/{sequencial}/itens/{i}'
-                    request_descricao = session.get(url_descricao, headers={'accept': '*/*'})
-
-                    if response.status_code == 200 and request_descricao.status_code == 200:
-                        try:
-                            data = response.json()
-                            data_descricao = request_descricao.json()
-                        except json.JSONDecodeError:
-                            logging.error(f"Error decoding JSON from {url} or {url_descricao}")
-                            return None
-
-                        if data:
-                            resultadoItem = data[0]
-                            empresasContratadas[f'Empresa Contratada -{i}'] = resultadoItem['nomeRazaoSocialFornecedor']
-                            empresasContratadas[f'CNPJ -{i}'] = resultadoItem["niFornecedor"]
-                            empresasContratadas[f'Valor Recebido -{i}'] = resultadoItem["valorTotalHomologado"]
-                            empresasContratadas[f'Descrição -{i}'] = data_descricao["descricao"]
-                    else:
-                        logging.warning(f"Failed request for item {i}: {response.status_code} or {request_descricao.status_code}")
-                        return None
-
-        return empresasContratadas if empresasContratadas else None
-
-    except Exception as e:
-        logging.error(f"Error in get_resultados: {e}")
+        
+        return empresasContratadas
+    else:
+        logging.error(f"Request failed for number of items: {requestItem.status_code}")
         return None
 
 def main():
@@ -83,12 +83,13 @@ def main():
                     try:
                         dados = response.json()
                     except json.JSONDecodeError:
-                        logging.error(f"Error decoding JSON from {url} with params {params}")
+                        logging.error(f"JSON decode error for {url} with params {params}")
                         break
 
                     for contrato in dados['data']:
                         if contrato['valorTotalHomologado'] is not None:
                             empresasContratadas = get_resultados(session, contrato)
+
                             if empresasContratadas:
                                 contrato_data = {
                                     "Modalidade": contrato["modalidadeNome"],
