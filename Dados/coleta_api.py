@@ -64,7 +64,7 @@ def main():
     dtInicial = f'{anoDt}0{mes}0{diaDt}'
     dtFinal = f'{ano_Dt}0{mes}0{diaDt-1}'
 
-    with open('contratos_OFICIAL.json', 'w', encoding='utf-8') as f:
+    with open('Dados/contratos_OFICIAL.json', 'w', encoding='utf-8') as f:
         f.write('[\n')
 
         with requests.Session() as session:
