@@ -69,52 +69,59 @@ def main():
 
         with requests.Session() as session:
             while ano_Dt <= 2025:
-                url = 'https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao'
-                params = {
-                    'dataInicial': dtInicial,
-                    'dataFinal': dtFinal,
-                    'codigoModalidadeContratacao': '8',
-                    'uf': 'df',
-                    'pagina': str(pag)
-                }
+                while True:
+                    url = 'https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao'
+                    params = {
+                        'dataInicial': dtInicial,
+                        'dataFinal': dtFinal,
+                        'codigoModalidadeContratacao': '8',
+                        'uf': 'df',
+                        'pagina': str(pag)
+                    }
 
-                response = session.get(url, params=params)
-                if response.status_code == 200:
-                    try:
-                        dados = response.json()
-                    except json.JSONDecodeError:
-                        logging.error(f"JSON decode error for {url} with params {params}")
+                    response = session.get(url, params=params)
+                    if response.status_code == 200:
+                        try:
+                            dados = response.json()
+                        except json.JSONDecodeError:
+                            logging.error(f"JSON decode error for {url} with params {params}")
+                            break
+
+                        if not dados['data']:
+                            logging.info(f"No more data for date range {dtInicial} to {dtFinal}")
+                            break
+
+                        for contrato in dados['data']:
+                            if contrato['valorTotalHomologado'] is not None:
+                                empresasContratadas = get_resultados(session, contrato)
+
+                                if empresasContratadas:
+                                    contrato_data = {
+                                        "Modalidade": contrato["modalidadeNome"],
+                                        "Código": contrato["numeroControlePNCP"],
+                                        "UF": contrato["unidadeOrgao"]["ufNome"],
+                                        "Órgão Entidade": contrato['orgaoEntidade']['razaoSocial'],
+                                        "Objeto da Compra": contrato['objetoCompra'],
+                                        "Ano da Compra": contrato['anoCompra'],
+                                        "Valor Total Estimado": contrato['valorTotalEstimado'],
+                                        "Valor Total Homologado": contrato['valorTotalHomologado'],
+                                        "Empresas Contratadas": empresasContratadas
+                                    }
+                                    numeroControlePNCP = contrato["numeroControlePNCP"]
+                                    logging.info(f"Processing contrato: {numeroControlePNCP}")
+                                    json.dump(contrato_data, f, ensure_ascii=False, indent=4)
+                                    f.write(',\n')
+
+                        pag += 1
+                    else:
+                        logging.warning(f"Failed request to {url} with params {params}, status code: {response.status_code}")
                         break
 
-                    for contrato in dados['data']:
-                        if contrato['valorTotalHomologado'] is not None:
-                            empresasContratadas = get_resultados(session, contrato)
-
-                            if empresasContratadas:
-                                contrato_data = {
-                                    "Modalidade": contrato["modalidadeNome"],
-                                    "Código": contrato["numeroControlePNCP"],
-                                    "UF": contrato["unidadeOrgao"]["ufNome"],
-                                    "Órgão Entidade": contrato['orgaoEntidade']['razaoSocial'],
-                                    "Objeto da Compra": contrato['objetoCompra'],
-                                    "Ano da Compra": contrato['anoCompra'],
-                                    "Valor Total Estimado": contrato['valorTotalEstimado'],
-                                    "Valor Total Homologado": contrato['valorTotalHomologado'],
-                                    "Empresas Contratadas": empresasContratadas
-                                }
-                                numeroControlePNCP = contrato["numeroControlePNCP"]
-                                logging.info(f"Processing contrato: {numeroControlePNCP}")
-                                json.dump(contrato_data, f, ensure_ascii=False, indent=4)
-                                f.write(',\n')
-
-                    pag += 1
-                else:
-                    logging.warning(f"Failed request to {url} with params {params}, status code: {response.status_code}")
-                    pag = 1
-                    anoDt = ano_Dt
-                    ano_Dt += 1
-                    dtInicial = f'{anoDt}0{mes}0{diaDt}'
-                    dtFinal = f'{ano_Dt}0{mes}0{diaDt-1}'
+                pag = 1
+                anoDt = ano_Dt
+                ano_Dt += 1
+                dtInicial = f'{anoDt}0{mes}0{diaDt}'
+                dtFinal = f'{ano_Dt}0{mes}0{diaDt-1}'
 
         f.seek(f.tell() - 3)
         f.truncate()
