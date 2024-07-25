@@ -9,7 +9,7 @@ O projeto LicitaNow visa verificar e mostrar aos usuários os gastos públicos d
 - Estrutura e Estilo: Para criar a interface inicial do nosso projeto, utilizamos HTML para estruturar o conteúdo e CSS para estilizar os elementos. Além disso, utilizamos JavaScript para adicionar interatividade à página.
 - Conteúdo Principal: O HTML define a estrutura básica da página, incluindo cabeçalho, seções de conteúdo, e rodapé. O CSS é responsável pela aparência visual, incluindo cores, espaçamentos, e fontes. O JavaScript adiciona comportamento dinâmico, como animações e reações a eventos de usuário.
 
-#### Integração com Streamlit:
+#### Integração com a biblioteca do Streamlit:
 - Incorporação de HTML/CSS/JS no Streamlit: Utilizamos a biblioteca streamlit.components.v1 para incorporar o nosso código HTML, CSS e JavaScript dentro do aplicativo Streamlit. Isso nos permitiu combinar a flexibilidade do desenvolvimento web tradicional com a simplicidade e o poder do Streamlit.
 - Código de Integração:
 
