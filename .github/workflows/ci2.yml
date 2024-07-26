@@ -2,7 +2,7 @@ name: Atualizar Licitações
 
 on:
   schedule:
-    - cron: '0 2 * * 5' # Toda sexta-feira às 02:00 UTC 
+    - cron: '0 2 * * 6' # Toda sexta-feira às 02:00 UTC 2- terça 3-quarta 4-quinta 5-sexta 6-sábado 7-domingo
   push:
     branches:
       - main
