@@ -37,7 +37,7 @@ def get_resultados(session, contrato):
                     data_descricao = request_descricao.json()  # JSON da descrição do serviço, com base no item
                 except json.JSONDecodeError:
                     logging.error(f"JSON decode error for item {i}")
-                    return None
+                    continue
 
                 if data:
                     resultadoItem = data[0]
@@ -47,7 +47,7 @@ def get_resultados(session, contrato):
                     empresasContratadas[f'Descrição -{i}'] = data_descricao["descricao"]
             else:
                 logging.error(f"Request failed for item {i}: {response.status_code} or {request_descricao.status_code}")
-                return None
+                continue
         
         return empresasContratadas
     else:
@@ -123,11 +123,10 @@ def main():
                 dtInicial = f'{anoDt}0{mes}0{diaDt}'
                 dtFinal = f'{ano_Dt}0{mes}0{diaDt-1}'
 
-        f.seek(f.tell() - 3)
-        f.truncate()
-        f.write('\n]')
+        # Remove the trailing comma from the JSON array and close the array
+        f.seek(f.tell() - 2, 0)  # Move the cursor back to remove the last comma and newline
+        f.truncate()  # Truncate the file to the current position
+        f.write('\n]')  # Close the JSON array
 
 if __name__ == "__main__":
     main()
-
-#teste

@@ -1,0 +1,49 @@
+name: Atualizar Info Empresa
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'Dados/contratos_OFICIAL.json'
+      - 'Dados/**'
+
+jobs:
+  update-info-empresa:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          pip install pandas
+
+      - name: Run info empresa script
+        run: python Dados/info_empresa.py
+
+      - name: Check for changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'noreply.github.com'
+          if git diff --quiet; then
+            echo "No changes detected, skipping commit."
+            exit 0
+          fi
+
+      - name: Commit and push changes
+        if: success()
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git add Dados/x_empresas_contratadas.json
+          git commit -m "Atualização automática: $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
