@@ -43,6 +43,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          git pull origin main
           git add Dados/infos_cnpj_OFICIAL.json
           git commit -m "Atualização automática: $(date +'%Y-%m-%d %H:%M:%S')"
           git push
