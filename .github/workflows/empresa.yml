@@ -1,12 +1,10 @@
 name: Atualizar Info Empresa
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'Dados/contratos_OFICIAL.json'
-      - 'Dados/**'
+  workflow_run:
+    workflows: ["Atualizar Licitações"]
+    types:
+      - completed
 
 jobs:
   update-info-empresa:

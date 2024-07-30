@@ -1,13 +1,10 @@
 name: Ordenar Dados
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'Dados/contratos_OFICIAL.json'
-      - 'Dados/infos_cnpj_OFICIAL.json'
-      - 'Dados/**'
+  workflow_run:
+    workflows: ["Atualizar CNPJs"]
+    types:
+      - completed
 
 jobs:
   ordenar-dados:
