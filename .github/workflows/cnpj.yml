@@ -8,6 +8,9 @@ on:
       - 'Dados/contratos_OFICIAL.json'
       - 'Dados/**'
 
+permissions:
+  contents: write
+
 jobs:
   update-cnpjs:
     runs-on: ubuntu-latest
