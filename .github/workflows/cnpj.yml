@@ -1,12 +1,10 @@
 name: Atualizar CNPJs
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'Dados/contratos_OFICIAL.json'
-      - 'Dados/**'
+  workflow_run:
+    workflows: ["Atualizar Licitações"]
+    types:
+      - completed
 
 permissions:
   contents: write
@@ -32,21 +30,13 @@ jobs:
       - name: Run CNPJ script
         run: python Dados/coleta_cnpjs.py
 
-      - name: Check for changes
-        run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'noreply.github.com'
-          if git diff --quiet; then
-            echo "No changes detected, skipping commit."
-            exit 0
-          fi
-
       - name: Commit and push changes
-        if: success()
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'noreply@github.com'
           git pull origin main
           git add Dados/infos_cnpj_OFICIAL.json
-          git commit -m "Atualização automática: $(date +'%Y-%m-%d %H:%M:%S')"
+          git commit -m "Atualização automática: $(date +'%Y-%m-%d %H:%M:%S')" || echo "Nada para commitar"
           git push

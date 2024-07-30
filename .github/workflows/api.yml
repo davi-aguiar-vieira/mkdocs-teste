@@ -2,7 +2,7 @@ name: Atualizar Licitações
 
 on:
   schedule:
-    - cron: '0 2 * * 6' # Toda sexta-feira às 02:00 UTC 2- terça 3-quarta 4-quinta 5-sexta 6-sábado 7-domingo
+    - cron: '0 2 * * 6'
   push:
     branches:
       - main
@@ -29,21 +29,13 @@ jobs:
       - name: Run update script
         run: python Dados/coleta_api.py
 
-      - name: Check for changes
-        run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'noreply.github.com'
-          if git diff --quiet; then
-            echo "No changes detected, skipping commit."
-            exit 0
-          fi
-
       - name: Commit and push changes
-        if: success()
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'noreply@github.com'
           git pull origin main
           git add Dados/contratos_OFICIAL.json
-          git commit -m "Atualização automática: $(date +'%Y-%m-%d %H:%M:%S')"
+          git commit -m "Atualização automática: $(date +'%Y-%m-%d %H:%M:%S')" || echo "Nada para commitar"
           git push
