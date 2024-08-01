@@ -1,55 +1,69 @@
 import json
 import requests
+import time
+from collections import defaultdict
 
-# Caminho do arquivo JSON
-with open('Dados/infos_cnpj_OFICIAL.json', 'w', encoding='utf-8') as f:
-    f.write('[\n')
+# Cache para respostas de CNPJ
+cache_cnpjs = defaultdict(dict)
+
+# Função para realizar requisições com tratamento de erros e cache
+def get_cnpj_data(cnpj):
+    if cnpj in cache_cnpjs:
+        return cache_cnpjs[cnpj]
+    
+    url = f'https://api.cnpjs.dev/v1/{cnpj}'
+    for _ in range(3):  # Tenta 3 vezes em caso de falha
+        try:
+            response = requests.get(url)
+            if response.status_code == 200:
+                data = response.json()
+                cache_cnpjs[cnpj] = data  # Armazena no cache
+                return data
+            elif response.status_code == 429:
+                # Limite de taxa atingido, espera 5 segundos e tenta novamente
+                time.sleep(5)
+        except requests.exceptions.RequestException as e:
+            print(f"Erro ao solicitar dados para {cnpj}: {e}")
+        time.sleep(1)  # Pausa curta entre as tentativas
+    return None
+
+# Caminho do arquivo JSON de saída
+output_path = 'Dados/infos_cnpj_OFICIAL.json'
+
+# Caminho do arquivo JSON de entrada
+input_path = 'Dados/contratos_OFICIAL.json'
+
+with open(output_path, 'w', encoding='utf-8') as f_out:
+    f_out.write('[\n')
     # Abre o arquivo JSON para leitura
-    with open('Dados/contratos_OFICIAL.json', 'r', encoding='utf-8') as arquivo:
-        # Carrega o conteúdo do arquivo como um objeto Python
-        dados_json = json.load(arquivo)
+    with open(input_path, 'r', encoding='utf-8') as f_in:
+        dados_json = json.load(f_in)
 
-        # Conjunto para armazenar CNPJs já processados
         cnpjs_processados = set()
 
-        # Itera sobre cada item do arquivo JSON
         for item in dados_json:
             for chave, valor in item['Empresas Contratadas'].items():
-                # Verifica se a chave começa com "CNPJ"
-                if chave.startswith('CNPJ'):
-                    if valor not in cnpjs_processados:
-                        try:
-                            # Tenta obter os dados do CNPJ
-                            url = 'https://api.cnpjs.dev/v1/'+str(valor)
-                            response = requests.get(url)
+                if chave.startswith('CNPJ') and valor not in cnpjs_processados:
+                    data = get_cnpj_data(valor)
+                    if data:
+                        informations = {
+                            "CNPJ": data.get("cnpj"),
+                            "Razão social": data.get("razao_social"),
+                            "Porte": data.get("porte"),
+                            "Nome Fantasia": data.get("nome_fantasia"),
+                            "Situação Cadastral": data.get("situacao_cadastral"),
+                            "Data da Situação Cadastral": data.get("data_situacao_cadastral"),
+                            "CNAE fiscal principal": data.get("cnae_fiscal_principal"),
+                            "Endereço UF": data.get("endereco", {}).get("uf"),
+                            "Endereço Município": data.get("endereco", {}).get("municipio"),
+                            "Data de Início da Atividade": data.get("data_inicio_atividade"),
+                            "Sócios": data.get("socios")
+                        }
+                        json.dump(informations, f_out, ensure_ascii=False, indent=4)
+                        f_out.write(',\n')
+                        cnpjs_processados.add(valor)
 
-                            if response.status_code == 200:
-                                data = response.json()
-                                # Verifica se o CNPJ já foi processado antes                            
-                                
-                                informations = {
-                                    "CNPJ": data["cnpj"],
-                                    "Razão social": data["razao_social"],
-                                    "Porte": data["porte"],
-                                    "Nome Fantasia": data["nome_fantasia"],
-                                    "Situação Cadastral": data["situacao_cadastral"],
-                                    "Data da Situação Cadastral": data["data_situacao_cadastral"],
-                                    "CNAE fiscal principal": data["cnae_fiscal_principal"],
-                                    "Endereço UF": data["endereco"]["uf"],
-                                    "Endereço Município": data["endereco"]["municipio"],
-                                    "Data de Início da Atividade": data["data_inicio_atividade"],
-                                    "Sócios": data["socios"]
-                                }
-                                nCNPJ = data["cnpj"]
-                                print(nCNPJ)
-                                json.dump(informations, f, ensure_ascii=False, indent=4)
-                                f.write(',\n')
-                                # Adiciona o CNPJ ao conjunto de CNPJs processados
-                                cnpjs_processados.add(valor)
-                        except KeyError:
-                            # Se a chave 'cnpj' não for encontrada, continue para o próximo loop
-                            continue
-        # Retorna ao início do arquivo e remove a última vírgula
-        f.seek(f.tell() - 2)  # Move o cursor de escrita de volta 2 caracteres para remover a vírgula e nova linha
-        f.truncate()  # Remove o último caractere (a vírgula)
-        f.write('\n]')  # Escreve o fechamento da lista
+    f_out.seek(f_out.tell() - 2)
+    f_out.truncate()
+    f_out.write('\n]')
+
