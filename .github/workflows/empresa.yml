@@ -5,6 +5,7 @@ on:
     workflows: ["Atualizar Licitações"]
     types:
       - completed
+  workflow_dispatch:
 
 jobs:
   update-info-empresa:

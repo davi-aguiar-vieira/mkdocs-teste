@@ -28,17 +28,17 @@ with open('Dados/infos_cnpj_OFICIAL.json', 'w', encoding='utf-8') as f:
                                 # Verifica se o CNPJ já foi processado antes                            
                                 
                                 informations = {
-                                    "CNPJ" : data["cnpj"],
-                                    "Razão social" : data["razao_social"],
-                                    "Porte" : data["porte"],
-                                    "Nome Fantasia" : data["nome_fantasia"],
-                                    "Situação Cadastral" : data["situacao_cadastral"],
-                                    "Data da Situação Cadastral" : data["data_situacao_cadastral"],
+                                    "CNPJ": data["cnpj"],
+                                    "Razão social": data["razao_social"],
+                                    "Porte": data["porte"],
+                                    "Nome Fantasia": data["nome_fantasia"],
+                                    "Situação Cadastral": data["situacao_cadastral"],
+                                    "Data da Situação Cadastral": data["data_situacao_cadastral"],
                                     "CNAE fiscal principal": data["cnae_fiscal_principal"],
-                                    "Endereço UF" : data["endereco"]["uf"],
-                                    "Endereço Município" : data["endereco"]["municipio"],
-                                    "Data de Início da Atividade" : data["data_inicio_atividade"],
-                                    "Sócios" : data["socios"]
+                                    "Endereço UF": data["endereco"]["uf"],
+                                    "Endereço Município": data["endereco"]["municipio"],
+                                    "Data de Início da Atividade": data["data_inicio_atividade"],
+                                    "Sócios": data["socios"]
                                 }
                                 nCNPJ = data["cnpj"]
                                 print(nCNPJ)
@@ -49,6 +49,7 @@ with open('Dados/infos_cnpj_OFICIAL.json', 'w', encoding='utf-8') as f:
                         except KeyError:
                             # Se a chave 'cnpj' não for encontrada, continue para o próximo loop
                             continue
-        f.seek(f.tell() - 3)  # Move o cursor de escrita de volta 3 caracteres
+        # Retorna ao início do arquivo e remove a última vírgula
+        f.seek(f.tell() - 2)  # Move o cursor de escrita de volta 2 caracteres para remover a vírgula e nova linha
         f.truncate()  # Remove o último caractere (a vírgula)
         f.write('\n]')  # Escreve o fechamento da lista

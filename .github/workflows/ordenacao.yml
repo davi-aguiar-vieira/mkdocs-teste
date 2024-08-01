@@ -5,6 +5,7 @@ on:
     workflows: ["Atualizar CNPJs"]
     types:
       - completed
+  workflow_dispatch:
 
 jobs:
   ordenar-dados:
