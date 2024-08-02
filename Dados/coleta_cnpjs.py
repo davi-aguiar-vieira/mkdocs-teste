@@ -1,73 +1,57 @@
+#Faz buscas no API do CNPJ <https://api.cnpjs.dev>, como resultado, ele gera um arquivo "frontend\infos_CNPJ_OFICIAL.json"
+
+
 import json
 import requests
-import time
-from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# Função para realizar requisições com tratamento de erros
-def get_cnpj_data(cnpj):
-    url = f'https://api.cnpjs.dev/v1/{cnpj}'
-    for _ in range(3):  # Tenta 3 vezes em caso de falha
-        try:
-            response = requests.get(url)
-            if response.status_code == 200:
-                return response.json()
-            elif response.status_code == 429:
-                # Limite de taxa atingido, espera 5 segundos e tenta novamente
-                time.sleep(5)
-        except requests.exceptions.RequestException as e:
-            print(f"Erro ao solicitar dados para {cnpj}: {e}")
-        time.sleep(1)  # Pausa curta entre as tentativas
-    return None
+# Caminho do arquivo JSON
+with open('Dados/infos_cnpj_OFICIAL.json', 'w', encoding='utf-8') as f:
+    f.write('[\n')
+    # Abre o arquivo JSON para leitura
+    with open('Dados/contratos_OFICIAL.json', 'r', encoding='utf-8') as arquivo: # adicionei o frontend, pois não estava funcionando no meu pc
+        # Carrega o conteúdo do arquivo como um objeto Python
+        dados_json = json.load(arquivo)
 
-# Caminho do arquivo JSON de entrada e saída
-input_path = 'Dados/contratos_OFICIAL.json'
-output_path = 'Dados/infos_cnpj_OFICIAL.json'
+        # Conjunto para armazenar CNPJs já processados
+        cnpjs_processados = set()
 
-# Cache de respostas para CNPJs processados
-cnpjs_processados = set()
+        # Itera sobre cada item do arquivo JSON
+        for item in dados_json:
+            for chave, valor in item['Empresas Contratadas'].items():
+                # Verifica se a chave começa com "CNPJ"
+                if chave.startswith('CNPJ'):
+                    if valor not in cnpjs_processados:
+                        try:
+                            # Tenta obter os dados do CNPJ
+                            url = 'https://api.cnpjs.dev/v1/'+str(valor)
+                            response = requests.get(url)
 
-# Função para processar um item e coletar informações
-def process_item(item):
-    result = []
-    for chave, valor in item['Empresas Contratadas'].items():
-        if chave.startswith('CNPJ') and valor not in cnpjs_processados:
-            data = get_cnpj_data(valor)
-            if data:
-                informations = {
-                    "CNPJ": data.get("cnpj"),
-                    "Razão social": data.get("razao_social"),
-                    "Porte": data.get("porte"),
-                    "Nome Fantasia": data.get("nome_fantasia"),
-                    "Situação Cadastral": data.get("situacao_cadastral"),
-                    "Data da Situação Cadastral": data.get("data_situacao_cadastral"),
-                    "CNAE fiscal principal": data.get("cnae_fiscal_principal"),
-                    "Endereço UF": data.get("endereco", {}).get("uf"),
-                    "Endereço Município": data.get("endereco", {}).get("municipio"),
-                    "Data de Início da Atividade": data.get("data_inicio_atividade"),
-                    "Sócios": data.get("socios")
-                }
-                result.append(informations)
-                cnpjs_processados.add(valor)
-    return result
-
-with open(input_path, 'r', encoding='utf-8') as f_in:
-    dados_json = json.load(f_in)
-
-    with open(output_path, 'w', encoding='utf-8') as f_out:
-        f_out.write('[\n')
-
-        with ThreadPoolExecutor(max_workers=10) as executor:
-            futures = [executor.submit(process_item, item) for item in dados_json]
-            
-            for future in as_completed(futures):
-                results = future.result()
-                for informations in results:
-                    json.dump(informations, f_out, ensure_ascii=False, indent=4)
-                    f_out.write(',\n')
-        
-        # Remover a última vírgula e fechar o JSON corretamente
-        f_out.seek(f_out.tell() - 2)
-        f_out.truncate()
-        f_out.write('\n]')
-
-print("Processamento concluído")
+                            if response.status_code == 200:
+                                data = response.json()
+                                # Verifica se o CNPJ já foi processado antes                            
+                                
+                                informations = {
+                                    "CNPJ" : data["cnpj"],
+                                    "Razão social" : data["razao_social"],
+                                    "Porte" : data["porte"],
+                                    "Nome Fantasia" : data["nome_fantasia"],
+                                    "Situação Cadastral" : data["situacao_cadastral"],
+                                    "Data da Situação Cadastral" : data["data_situacao_cadastral"],
+                                    "CNAE fiscal principal": data["cnae_fiscal_principal"],
+                                    "Endereço UF" : data["endereco"]["uf"],
+                                    "Endereço Município" : data["endereco"]["municipio"],
+                                    "Data de Início da Atividade" : data["data_inicio_atividade"],
+                                    "Sócios" : data["socios"]
+                                }
+                                nCNPJ = data["cnpj"]
+                                print(nCNPJ)
+                                json.dump(informations, f, ensure_ascii=False, indent=4)
+                                f.write(',\n')
+                                # Adiciona o CNPJ ao conjunto de CNPJs processados
+                                cnpjs_processados.add(valor)
+                        except KeyError:
+                            # Se a chave 'cnpj' não for encontrada, continue para o próximo loop
+                            continue
+        f.seek(f.tell() - 3)  # Move o cursor de escrita de volta 3 caracteres
+        f.truncate()  # Remove o último caractere (a vírgula)
+        f.write('\n]')  # Escreve o fechamento da lista
