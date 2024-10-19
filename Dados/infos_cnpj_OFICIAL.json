@@ -90,28 +90,28 @@
     ]
 },
 {
-    "CNPJ": "14911164000185",
-    "Razão social": "AMV FESTAS & EVENTOS LTDA",
+    "CNPJ": "40997647000154",
+    "Razão social": "WINDOC GESTAO DE DOCUMENTOS LTDA",
     "Porte": "ME",
-    "Nome Fantasia": "AMV EVENTOS",
+    "Nome Fantasia": null,
     "Situação Cadastral": "Ativa",
-    "Data da Situação Cadastral": "2012-01-19",
+    "Data da Situação Cadastral": "2021-02-25",
     "CNAE fiscal principal": {
-        "codigo": 5620102,
-        "nome": "Serviços de alimentação para eventos e recepções - bufê"
+        "codigo": 4751201,
+        "nome": "Comércio varejista especializado de equipamentos e suprimentos de informática"
     },
     "Endereço UF": "DF",
     "Endereço Município": "BRASILIA",
-    "Data de Início da Atividade": "2012-01-19",
+    "Data de Início da Atividade": "2021-02-25",
     "Sócios": [
         {
             "tipo": "Pessoa física",
-            "nome": "VANDI GOMES DE SOUZA",
-            "doc": "***563681**",
-            "qualificacao": "Sócio",
-            "data_entrada": "2013-01-29",
+            "nome": "RAFAEL PAULINO DO CARMO",
+            "doc": "***507436**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2022-08-15",
             "pais": "",
-            "faixa_etaria": "41 a 50 anos",
+            "faixa_etaria": "31 a 40 anos",
             "representante_legal": {
                 "nome": "",
                 "doc": "***000000**",
@@ -120,12 +120,12 @@
         },
         {
             "tipo": "Pessoa física",
-            "nome": "ANTONIA DE MARIA DO VALE SOUZA",
-            "doc": "***661631**",
+            "nome": "MARCUS VINICIUS SOARES CORREA",
+            "doc": "***608826**",
             "qualificacao": "Sócio-Administrador",
-            "data_entrada": "2012-01-19",
+            "data_entrada": "2021-06-02",
             "pais": "",
-            "faixa_etaria": "41 a 50 anos",
+            "faixa_etaria": "31 a 40 anos",
             "representante_legal": {
                 "nome": "",
                 "doc": "***000000**",
@@ -225,26 +225,26 @@
     ]
 },
 {
-    "CNPJ": "42933602000141",
-    "Razão social": "ZENITE COMERCIO E SUPRIMENTOS DE INFORMATICA UNIPESSOAL LTDA",
-    "Porte": "ME",
-    "Nome Fantasia": null,
+    "CNPJ": "29432207000117",
+    "Razão social": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+    "Porte": "",
+    "Nome Fantasia": "FORQUILHA COMERCIO E SERVICOS",
     "Situação Cadastral": "Ativa",
-    "Data da Situação Cadastral": "2021-07-30",
+    "Data da Situação Cadastral": "2018-01-15",
     "CNAE fiscal principal": {
-        "codigo": 4751201,
-        "nome": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+        "codigo": 4729699,
+        "nome": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
     },
-    "Endereço UF": "SC",
-    "Endereço Município": "SANTO AMARO DA IMPERATRIZ",
-    "Data de Início da Atividade": "2021-07-30",
+    "Endereço UF": "DF",
+    "Endereço Município": "BRASILIA",
+    "Data de Início da Atividade": "2018-01-15",
     "Sócios": [
         {
             "tipo": "Pessoa física",
-            "nome": "LEONARDO SILVEIRA POLI",
-            "doc": "***248999**",
+            "nome": "DOUGLAS FERNANDO MOREIRA DO NASCIMENTO",
+            "doc": "***386451**",
             "qualificacao": "Sócio-Administrador",
-            "data_entrada": "2021-07-30",
+            "data_entrada": "2020-08-19",
             "pais": "",
             "faixa_etaria": "21 a 30 anos",
             "representante_legal": {
@@ -272,28 +272,28 @@
     "Sócios": []
 },
 {
-    "CNPJ": "31095478000176",
-    "Razão social": "J&V COMUNICACAO LTDA",
-    "Porte": "ME",
-    "Nome Fantasia": "J&V COMUNIC",
+    "CNPJ": "31837899000125",
+    "Razão social": "ALFA TELECOM COMERCIO E SERVICO DE TECNOLOGIA EM REDE LTDA",
+    "Porte": "",
+    "Nome Fantasia": "ALFA TELECOM COMERCIO E SERVICO DE TECNOLOGIA EM REDE",
     "Situação Cadastral": "Ativa",
-    "Data da Situação Cadastral": "2018-08-02",
+    "Data da Situação Cadastral": "2018-10-23",
     "CNAE fiscal principal": {
-        "codigo": 7319002,
-        "nome": "Promoção de vendas"
+        "codigo": 4321500,
+        "nome": "Instalação e manutenção elétrica"
     },
-    "Endereço UF": "MG",
-    "Endereço Município": "BELO HORIZONTE",
-    "Data de Início da Atividade": "2018-08-02",
+    "Endereço UF": "DF",
+    "Endereço Município": "BRASILIA",
+    "Data de Início da Atividade": "2018-10-23",
     "Sócios": [
         {
             "tipo": "Pessoa física",
-            "nome": "PAULINE MARIA TIBURCIO GOMES",
-            "doc": "***633076**",
+            "nome": "JOSE ORLANDO MONTEIRO SILVA",
+            "doc": "***494901**",
             "qualificacao": "Sócio-Administrador",
-            "data_entrada": "2018-08-02",
+            "data_entrada": "2018-10-23",
             "pais": "",
-            "faixa_etaria": "31 a 40 anos",
+            "faixa_etaria": "41 a 50 anos",
             "representante_legal": {
                 "nome": "",
                 "doc": "***000000**",
@@ -334,56 +334,28 @@
     ]
 },
 {
-    "CNPJ": "33101460000165",
-    "Razão social": "CASA VAREJAO ARTIGOS DESPORTIVOS LTDA",
+    "CNPJ": "17356181000196",
+    "Razão social": "ADONAI COMERCIO DE MAQUINAS E EQUIPAMENTOS LTDA",
     "Porte": "",
-    "Nome Fantasia": null,
+    "Nome Fantasia": "ADONAI ATACADISTA",
     "Situação Cadastral": "Ativa",
-    "Data da Situação Cadastral": "2001-03-31",
+    "Data da Situação Cadastral": "2013-01-03",
     "CNAE fiscal principal": {
-        "codigo": 4789099,
-        "nome": "Comércio varejista de outros produtos não especificados anteriormente"
+        "codigo": 4663000,
+        "nome": "Comércio atacadista de Máquinas e equipamentos para uso industrial; partes e peças"
     },
-    "Endereço UF": "RJ",
-    "Endereço Município": "RIO DE JANEIRO",
-    "Data de Início da Atividade": "1952-03-28",
+    "Endereço UF": "SC",
+    "Endereço Município": "SAO JOSE",
+    "Data de Início da Atividade": "2013-01-03",
     "Sócios": [
         {
             "tipo": "Pessoa física",
-            "nome": "OSVALDO ANTONIO BARBOSA DA FONSECA",
-            "doc": "***741997**",
+            "nome": "DEISIANE TEIXEIRA",
+            "doc": "***328499**",
             "qualificacao": "Sócio-Administrador",
-            "data_entrada": "1966-08-09",
+            "data_entrada": "2013-01-03",
             "pais": "",
-            "faixa_etaria": "71 a 80 anos",
-            "representante_legal": {
-                "nome": "",
-                "doc": "***000000**",
-                "qualificacao": "Não informada"
-            }
-        },
-        {
-            "tipo": "Pessoa física",
-            "nome": "GERALDO LUIZ BARBOSA DA FONSECA",
-            "doc": "***107917**",
-            "qualificacao": "Sócio-Administrador",
-            "data_entrada": "1966-08-09",
-            "pais": "",
-            "faixa_etaria": "80 anos ou mais",
-            "representante_legal": {
-                "nome": "",
-                "doc": "***000000**",
-                "qualificacao": "Não informada"
-            }
-        },
-        {
-            "tipo": "Pessoa física",
-            "nome": "FERNANDO LUIZ LENCASTRE DA FONSECA",
-            "doc": "***462987**",
-            "qualificacao": "Sócio-Administrador",
-            "data_entrada": "2007-11-12",
-            "pais": "",
-            "faixa_etaria": "41 a 50 anos",
+            "faixa_etaria": "31 a 40 anos",
             "representante_legal": {
                 "nome": "",
                 "doc": "***000000**",
@@ -424,28 +396,28 @@
     ]
 },
 {
-    "CNPJ": "37544176000114",
-    "Razão social": "DINAMICA DISTRIBUIDORA E COMERCIO VAREJISTA DE ELETRODOMESTICOS LTDA",
+    "CNPJ": "36902042000165",
+    "Razão social": "A J SILVA GUSMAO LTDA",
     "Porte": "ME",
-    "Nome Fantasia": "DINAMICA DISTRIBUIDORA",
+    "Nome Fantasia": "TVG ENGENHARIA",
     "Situação Cadastral": "Ativa",
-    "Data da Situação Cadastral": "2020-06-26",
+    "Data da Situação Cadastral": "2020-04-08",
     "CNAE fiscal principal": {
-        "codigo": 4753900,
-        "nome": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+        "codigo": 7112000,
+        "nome": "Serviços de engenharia"
     },
-    "Endereço UF": "DF",
-    "Endereço Município": "BRASILIA",
-    "Data de Início da Atividade": "2020-06-26",
+    "Endereço UF": "PE",
+    "Endereço Município": "JABOATAO DOS GUARARAPES",
+    "Data de Início da Atividade": "2020-04-08",
     "Sócios": [
         {
             "tipo": "Pessoa física",
-            "nome": "ANDRESSA MARQUES MENDONCA",
-            "doc": "***622641**",
+            "nome": "ANTONIO JOSE SILVA GUSMAO",
+            "doc": "***390424**",
             "qualificacao": "Sócio-Administrador",
-            "data_entrada": "2020-06-26",
+            "data_entrada": "2020-04-08",
             "pais": "",
-            "faixa_etaria": "21 a 30 anos",
+            "faixa_etaria": "51 a 60 anos",
             "representante_legal": {
                 "nome": "",
                 "doc": "***000000**",
@@ -455,28 +427,28 @@
     ]
 },
 {
-    "CNPJ": "06132270000132",
-    "Razão social": "EDITORA NEGOCIOS PUBLICOS DO BRASIL LTDA",
-    "Porte": "ME",
-    "Nome Fantasia": null,
+    "CNPJ": "06290671000110",
+    "Razão social": "AMBIENTE LIVRE ASSESSORIA EM SISTEMAS DE INFORMATICA LTDA",
+    "Porte": "",
+    "Nome Fantasia": "AMBIENTE LIVRE",
     "Situação Cadastral": "Ativa",
-    "Data da Situação Cadastral": "2005-11-03",
+    "Data da Situação Cadastral": "1970-01-01",
     "CNAE fiscal principal": {
-        "codigo": 7020400,
-        "nome": "Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica"
+        "codigo": 6204000,
+        "nome": "Consultoria em tecnologia da informação"
     },
     "Endereço UF": "PR",
-    "Endereço Município": "SAO JOSE DOS PINHAIS",
-    "Data de Início da Atividade": "2004-01-30",
+    "Endereço Município": "CURITIBA",
+    "Data de Início da Atividade": "2004-05-05",
     "Sócios": [
         {
             "tipo": "Pessoa física",
-            "nome": "RUDIMAR BARBOSA DOS REIS",
-            "doc": "***460249**",
-            "qualificacao": "Sócio-Administrador",
-            "data_entrada": "2021-02-03",
+            "nome": "GISELE CHEMBERGE",
+            "doc": "***717009**",
+            "qualificacao": "Sócio",
+            "data_entrada": "2016-06-22",
             "pais": "",
-            "faixa_etaria": "51 a 60 anos",
+            "faixa_etaria": "41 a 50 anos",
             "representante_legal": {
                 "nome": "",
                 "doc": "***000000**",
@@ -485,41 +457,10 @@
         },
         {
             "tipo": "Pessoa física",
-            "nome": "RUIMAR BARBOZA DOS REIS",
-            "doc": "***706009**",
-            "qualificacao": "Sócio",
-            "data_entrada": "2021-02-03",
-            "pais": "",
-            "faixa_etaria": "51 a 60 anos",
-            "representante_legal": {
-                "nome": "",
-                "doc": "***000000**",
-                "qualificacao": "Não informada"
-            }
-        }
-    ]
-},
-{
-    "CNPJ": "42182830000127",
-    "Razão social": "BSB CAPITAL SOLUCOES LTDA",
-    "Porte": "ME",
-    "Nome Fantasia": "CAPITAL SOLUCOES INTEGRADAS",
-    "Situação Cadastral": "Ativa",
-    "Data da Situação Cadastral": "2021-06-02",
-    "CNAE fiscal principal": {
-        "codigo": 7319002,
-        "nome": "Promoção de vendas"
-    },
-    "Endereço UF": "DF",
-    "Endereço Município": "BRASILIA",
-    "Data de Início da Atividade": "2021-06-02",
-    "Sócios": [
-        {
-            "tipo": "Pessoa física",
-            "nome": "IVO PESSOA DE SOUZA",
-            "doc": "***767143**",
+            "nome": "MARCIO JUNIOR VIEIRA",
+            "doc": "***424219**",
             "qualificacao": "Sócio-Administrador",
-            "data_entrada": "2022-08-04",
+            "data_entrada": "2004-05-05",
             "pais": "",
             "faixa_etaria": "41 a 50 anos",
             "representante_legal": {
@@ -531,75 +472,60 @@
     ]
 },
 {
-    "CNPJ": "04995470000193",
-    "Razão social": "MARCIA MEDIANEIRA DE OLIVEIRA SCHNEIDER",
+    "CNPJ": "42268039000134",
+    "Razão social": "FRANCIELLY VERISSIMO CARNEIRO BORGES 10502082690",
     "Porte": "ME",
-    "Nome Fantasia": "MODULO INFO",
+    "Nome Fantasia": "FTG LICITACOES",
     "Situação Cadastral": "Ativa",
-    "Data da Situação Cadastral": "2005-11-03",
+    "Data da Situação Cadastral": "2021-06-10",
     "CNAE fiscal principal": {
-        "codigo": 4751201,
-        "nome": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+        "codigo": 4761003,
+        "nome": "Comércio varejista de artigos de papelaria"
     },
-    "Endereço UF": "RS",
-    "Endereço Município": "PORTO ALEGRE",
-    "Data de Início da Atividade": "2002-03-25",
+    "Endereço UF": "MG",
+    "Endereço Município": "ARAXA",
+    "Data de Início da Atividade": "2021-06-10",
     "Sócios": []
 },
 {
-    "CNPJ": "29432207000117",
-    "Razão social": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
-    "Porte": "",
-    "Nome Fantasia": "FORQUILHA COMERCIO E SERVICOS",
+    "CNPJ": "42559170000150",
+    "Razão social": "DHEMERSON RODRIGUES DOS SANTOS 04235216163",
+    "Porte": "ME",
+    "Nome Fantasia": "DHEMERSON RODRIGUES DOS SANTOS",
     "Situação Cadastral": "Ativa",
-    "Data da Situação Cadastral": "2018-01-15",
+    "Data da Situação Cadastral": "2021-07-01",
     "CNAE fiscal principal": {
-        "codigo": 4729699,
-        "nome": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+        "codigo": 4753900,
+        "nome": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
     },
     "Endereço UF": "DF",
     "Endereço Município": "BRASILIA",
-    "Data de Início da Atividade": "2018-01-15",
-    "Sócios": [
-        {
-            "tipo": "Pessoa física",
-            "nome": "DOUGLAS FERNANDO MOREIRA DO NASCIMENTO",
-            "doc": "***386451**",
-            "qualificacao": "Sócio-Administrador",
-            "data_entrada": "2020-08-19",
-            "pais": "",
-            "faixa_etaria": "21 a 30 anos",
-            "representante_legal": {
-                "nome": "",
-                "doc": "***000000**",
-                "qualificacao": "Não informada"
-            }
-        }
-    ]
+    "Data de Início da Atividade": "2021-07-01",
+    "Sócios": []
 },
 {
-    "CNPJ": "43001604000165",
-    "Razão social": "LICITRATO COMERCIAL LTDA",
-    "Porte": "",
-    "Nome Fantasia": "LICITRATO COML",
+    "CNPJ": "10221304000132",
+    "Razão social": "AZTER SOLUCOES LTDA",
+    "Porte": "ME",
+    "Nome Fantasia": "AZTER SOLUCOES",
     "Situação Cadastral": "Ativa",
-    "Data da Situação Cadastral": "2021-08-05",
+    "Data da Situação Cadastral": "2008-07-22",
     "CNAE fiscal principal": {
-        "codigo": 4789099,
-        "nome": "Comércio varejista de outros produtos não especificados anteriormente"
+        "codigo": 1099699,
+        "nome": "Fabricação de outros produtos alimentícios não especificados anteriormente"
     },
     "Endereço UF": "DF",
     "Endereço Município": "BRASILIA",
-    "Data de Início da Atividade": "2021-08-05",
+    "Data de Início da Atividade": "2008-07-22",
     "Sócios": [
         {
             "tipo": "Pessoa física",
-            "nome": "GABRIEL LOPES MENEZES",
-            "doc": "***269051**",
+            "nome": "ANGELA CRISTINA RODRIGUES BERNARDINO MURDASH",
+            "doc": "***843931**",
             "qualificacao": "Sócio-Administrador",
-            "data_entrada": "2022-09-02",
+            "data_entrada": "2018-12-04",
             "pais": "",
-            "faixa_etaria": "21 a 30 anos",
+            "faixa_etaria": "51 a 60 anos",
             "representante_legal": {
                 "nome": "",
                 "doc": "***000000**",
@@ -608,10 +534,10 @@
         },
         {
             "tipo": "Pessoa física",
-            "nome": "RODNEY FERNANDES DA FONSECA",
-            "doc": "***083471**",
-            "qualificacao": "Sócio",
-            "data_entrada": "2022-09-02",
+            "nome": "ZUHAIR MURDASH",
+            "doc": "***606881**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2008-07-22",
             "pais": "",
             "faixa_etaria": "51 a 60 anos",
             "representante_legal": {
@@ -623,49 +549,36 @@
     ]
 },
 {
-    "CNPJ": "27494420000128",
-    "Razão social": "SOARES COMERCIO E LICITACOES LTDA",
+    "CNPJ": "41101377000114",
+    "Razão social": "MARIA EDUARDA CARVALHO GONCALVES 05546714174",
     "Porte": "ME",
-    "Nome Fantasia": "SOARES LICITACOES",
-    "Situação Cadastral": "Ativa",
-    "Data da Situação Cadastral": "2017-04-07",
+    "Nome Fantasia": "JUMALU",
+    "Situação Cadastral": "Baixada",
+    "Data da Situação Cadastral": "2021-10-25",
     "CNAE fiscal principal": {
-        "codigo": 4713002,
-        "nome": "Lojas de variedades, exceto lojas de departamentos ou magazines"
+        "codigo": 1412602,
+        "nome": "Confecção, sob medida, de peças do vestuário, exceto roupas íntimas"
     },
-    "Endereço UF": "GO",
-    "Endereço Município": "",
-    "Data de Início da Atividade": "2017-04-07",
-    "Sócios": [
-        {
-            "tipo": "Pessoa física",
-            "nome": "JONATHAS SOARES MIGUEL",
-            "doc": "***812161**",
-            "qualificacao": "Sócio-Administrador",
-            "data_entrada": "2017-04-07",
-            "pais": "",
-            "faixa_etaria": "31 a 40 anos",
-            "representante_legal": {
-                "nome": "",
-                "doc": "***000000**",
-                "qualificacao": "Não informada"
-            }
-        },
-        {
-            "tipo": "Pessoa física",
-            "nome": "GUSTAVO SOARES DE BASTOS",
-            "doc": "***444291**",
-            "qualificacao": "Sócio-Administrador",
-            "data_entrada": "2017-04-07",
-            "pais": "",
-            "faixa_etaria": "31 a 40 anos",
-            "representante_legal": {
-                "nome": "",
-                "doc": "***000000**",
-                "qualificacao": "Não informada"
-            }
-        }
-    ]
+    "Endereço UF": "DF",
+    "Endereço Município": "BRASILIA",
+    "Data de Início da Atividade": "2021-03-04",
+    "Sócios": []
+},
+{
+    "CNPJ": "34249129000150",
+    "Razão social": "DIEGO KAVABATA ALMEIDA BARROS",
+    "Porte": "ME",
+    "Nome Fantasia": "MT GERENCIAMENTO DE COMPRAS",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2019-07-18",
+    "CNAE fiscal principal": {
+        "codigo": 4744099,
+        "nome": "Comércio varejista de materiais de construção em geral"
+    },
+    "Endereço UF": "SP",
+    "Endereço Município": "PAULINIA",
+    "Data de Início da Atividade": "2019-07-18",
+    "Sócios": []
 },
 {
     "CNPJ": "12328181000169",
@@ -699,26 +612,397 @@
     ]
 },
 {
-    "CNPJ": "02923938000109",
-    "Razão social": "PRIMI & APPOLONI ARQUITETURA LTDA.",
-    "Porte": "",
-    "Nome Fantasia": "PRIMI & APPOLONI",
+    "CNPJ": "39412830000161",
+    "Razão social": "SOUZA TEC COMERCIO E SERVICO LTDA",
+    "Porte": "ME",
+    "Nome Fantasia": null,
     "Situação Cadastral": "Ativa",
-    "Data da Situação Cadastral": "2004-08-28",
+    "Data da Situação Cadastral": "2020-10-14",
     "CNAE fiscal principal": {
-        "codigo": 7111100,
-        "nome": "Serviços de arquitetura"
+        "codigo": 2229302,
+        "nome": "Fabricação de artefatos de material plástico para usos industriais"
     },
-    "Endereço UF": "SP",
-    "Endereço Município": "CAMPINAS",
-    "Data de Início da Atividade": "1998-12-23",
+    "Endereço UF": "MG",
+    "Endereço Município": "CONTAGEM",
+    "Data de Início da Atividade": "2020-10-14",
     "Sócios": [
         {
             "tipo": "Pessoa física",
-            "nome": "GIOVANA BIANCHI",
-            "doc": "***992198**",
+            "nome": "MARIO AUGUSTO NOGUEIRA DE SOUZA",
+            "doc": "***058146**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2020-10-14",
+            "pais": "",
+            "faixa_etaria": "31 a 40 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "09630207000114",
+    "Razão social": "EXPOFRIO COMERCIO DE REFRIGERACAO LTDA",
+    "Porte": "ME",
+    "Nome Fantasia": "CASA DA UTILIDADE",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2008-06-16",
+    "CNAE fiscal principal": {
+        "codigo": 4789099,
+        "nome": "Comércio varejista de outros produtos não especificados anteriormente"
+    },
+    "Endereço UF": "DF",
+    "Endereço Município": "BRASILIA",
+    "Data de Início da Atividade": "2008-06-16",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "AURISLEUDA DE AGUIAR SOARES FROTA",
+            "doc": "***568351**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2008-06-16",
+            "pais": "",
+            "faixa_etaria": "51 a 60 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "26547945000111",
+    "Razão social": "R ALMEIDA CONSTRUCOES LTDA",
+    "Porte": "",
+    "Nome Fantasia": "R ALMEIDA CONSTRUCOES",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2016-11-16",
+    "CNAE fiscal principal": {
+        "codigo": 7112000,
+        "nome": "Serviços de engenharia"
+    },
+    "Endereço UF": "MA",
+    "Endereço Município": "PINHEIRO",
+    "Data de Início da Atividade": "2016-11-16",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "RAFAEL PHABLO SILVA DE ALMEIDA",
+            "doc": "***185483**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2016-11-16",
+            "pais": "",
+            "faixa_etaria": "31 a 40 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "02528743000164",
+    "Razão social": "COPEL COMERCIAL DE PECAS LTDA",
+    "Porte": "",
+    "Nome Fantasia": "COPEL",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2004-11-26",
+    "CNAE fiscal principal": {
+        "codigo": 4530703,
+        "nome": "Comércio a varejo de peças e acessórios novos para veículos automotores"
+    },
+    "Endereço UF": "GO",
+    "Endereço Município": "",
+    "Data de Início da Atividade": "1978-10-16",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "TERESA MARTINS ARRUDA DE OLIVEIRA",
+            "doc": "***697391**",
             "qualificacao": "Sócio",
-            "data_entrada": "2022-09-01",
+            "data_entrada": "1980-01-07",
+            "pais": "",
+            "faixa_etaria": "71 a 80 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        },
+        {
+            "tipo": "Pessoa física",
+            "nome": "ANTONIO MARTINS ARRUDA",
+            "doc": "***095771**",
+            "qualificacao": "Sócio",
+            "data_entrada": "1980-01-07",
+            "pais": "",
+            "faixa_etaria": "61 a 70 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        },
+        {
+            "tipo": "Pessoa física",
+            "nome": "JONAS MARTINS ARRUDA",
+            "doc": "***237851**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "1980-01-07",
+            "pais": "",
+            "faixa_etaria": "61 a 70 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "31974592000176",
+    "Razão social": "INVITEC SERVICOS DE SEGURANCA E TECNOLOGIA LTDA",
+    "Porte": "ME",
+    "Nome Fantasia": "INVITEC SERVICOS DE SEGURANCA ELETRONICA E TECNOLOGIA",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2018-11-08",
+    "CNAE fiscal principal": {
+        "codigo": 8020001,
+        "nome": "Atividades de monitoramento de sistemas de segurança eletrônico"
+    },
+    "Endereço UF": "DF",
+    "Endereço Município": "BRASILIA",
+    "Data de Início da Atividade": "2018-11-08",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "VICTOR LUIZ NEGREIROS DE ALMEIDA",
+            "doc": "***194061**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2018-11-08",
+            "pais": "",
+            "faixa_etaria": "31 a 40 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "14666337000147",
+    "Razão social": "GMO SERVICOS MECANICOS LTDA",
+    "Porte": "ME",
+    "Nome Fantasia": "EVO AUTO CENTER",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2011-11-22",
+    "CNAE fiscal principal": {
+        "codigo": 4520001,
+        "nome": "Serviços de manutenção e reparação mecânica de veículos automotores"
+    },
+    "Endereço UF": "DF",
+    "Endereço Município": "BRASILIA",
+    "Data de Início da Atividade": "2011-11-22",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "GEDALIAS MENDES DE OLIVEIRA",
+            "doc": "***008881**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2020-10-15",
+            "pais": "",
+            "faixa_etaria": "31 a 40 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "44158982000110",
+    "Razão social": "P R DE O SOUZA",
+    "Porte": "",
+    "Nome Fantasia": "PR COMERCIO E SERVICOS",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2021-11-08",
+    "CNAE fiscal principal": {
+        "codigo": 4679699,
+        "nome": "Comércio atacadista de materiais de construção em geral"
+    },
+    "Endereço UF": "MA",
+    "Endereço Município": "BARRA DO CORDA",
+    "Data de Início da Atividade": "2021-11-08",
+    "Sócios": []
+},
+{
+    "CNPJ": "34061215000134",
+    "Razão social": "ANA CAROLINA DE PAIVA PAVAO",
+    "Porte": "ME",
+    "Nome Fantasia": "PP COMERCIO DE PRODUTOS",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2019-06-28",
+    "CNAE fiscal principal": {
+        "codigo": 4789004,
+        "nome": "Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação"
+    },
+    "Endereço UF": "SP",
+    "Endereço Município": "SANTA CRUZ DO RIO PARDO",
+    "Data de Início da Atividade": "2019-06-28",
+    "Sócios": []
+},
+{
+    "CNPJ": "36367739000183",
+    "Razão social": "IVF BRASIL SOLUCOES LABORATORIAIS LTDA",
+    "Porte": "",
+    "Nome Fantasia": null,
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2020-02-13",
+    "CNAE fiscal principal": {
+        "codigo": 4645101,
+        "nome": "Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios"
+    },
+    "Endereço UF": "SP",
+    "Endereço Município": "SAO PAULO",
+    "Data de Início da Atividade": "2020-02-13",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "PAULO HAIGAZUN ZEITUNLIAN FILHO",
+            "doc": "***984008**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2020-02-13",
+            "pais": "",
+            "faixa_etaria": "61 a 70 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "42240841000116",
+    "Razão social": "FOX STORE LTDA",
+    "Porte": "ME",
+    "Nome Fantasia": "FOX STORE",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2021-06-08",
+    "CNAE fiscal principal": {
+        "codigo": 4744099,
+        "nome": "Comércio varejista de materiais de construção em geral"
+    },
+    "Endereço UF": "ES",
+    "Endereço Município": "CONCEICAO DO CASTELO",
+    "Data de Início da Atividade": "2021-06-08",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "VANESSA APARECIDA LAZARO ROZERA",
+            "doc": "***514007**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2021-06-08",
+            "pais": "",
+            "faixa_etaria": "31 a 40 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "38072714000188",
+    "Razão social": "RONILDO SILVA FERREIRA 35699543821",
+    "Porte": "ME",
+    "Nome Fantasia": "SERVOS LAB",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2020-08-13",
+    "CNAE fiscal principal": {
+        "codigo": 4773300,
+        "nome": "Comércio varejista de artigos médicos e ortopédicos"
+    },
+    "Endereço UF": "SP",
+    "Endereço Município": "INDAIATUBA",
+    "Data de Início da Atividade": "2020-08-13",
+    "Sócios": []
+},
+{
+    "CNPJ": "40123646000180",
+    "Razão social": "ANDRE FELIPE DA SILVA MELLO 05483359151",
+    "Porte": "ME",
+    "Nome Fantasia": "TODO EMPENHO",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2020-12-15",
+    "CNAE fiscal principal": {
+        "codigo": 4789007,
+        "nome": "Comércio varejista de equipamentos para escritório"
+    },
+    "Endereço UF": "DF",
+    "Endereço Município": "BRASILIA",
+    "Data de Início da Atividade": "2020-12-15",
+    "Sócios": []
+},
+{
+    "CNPJ": "43586321000122",
+    "Razão social": "CANDANGO ATACAREJO DISTRIBUIDORA E COMERCIO VAREJISTA DE ELETRODOMESTICOS LTDA",
+    "Porte": "ME",
+    "Nome Fantasia": "CANDANGO ATACAREJO",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2021-09-20",
+    "CNAE fiscal principal": {
+        "codigo": 4753900,
+        "nome": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+    },
+    "Endereço UF": "DF",
+    "Endereço Município": "BRASILIA",
+    "Data de Início da Atividade": "2021-09-20",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "MARCELO MARQUES MENDONCA",
+            "doc": "***316621**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2021-11-19",
+            "pais": "",
+            "faixa_etaria": "31 a 40 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "10943754000139",
+    "Razão social": "GFK COMERCIO E SERVICOS DE ENGENHARIA LTDA",
+    "Porte": "ME",
+    "Nome Fantasia": "GFK ENGENHARIA",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2009-07-02",
+    "CNAE fiscal principal": {
+        "codigo": 7112000,
+        "nome": "Serviços de engenharia"
+    },
+    "Endereço UF": "DF",
+    "Endereço Município": "BRASILIA",
+    "Data de Início da Atividade": "2009-07-02",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "GIRLEI RODRIGUES DA SILVA",
+            "doc": "***834486**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2009-07-02",
             "pais": "",
             "faixa_etaria": "41 a 50 anos",
             "representante_legal": {
@@ -729,12 +1013,168 @@
         },
         {
             "tipo": "Pessoa física",
-            "nome": "LAUDENIR AMARILDO APPOLONI",
-            "doc": "***912328**",
+            "nome": "FRANCIMEIRA RODRIGUES DE SOUSA SILVA",
+            "doc": "***223271**",
+            "qualificacao": "Sócio",
+            "data_entrada": "2009-07-02",
+            "pais": "",
+            "faixa_etaria": "41 a 50 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "43519845000109",
+    "Razão social": "TAMIRES SOUZA SILVA 43321495805",
+    "Porte": "ME",
+    "Nome Fantasia": null,
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2021-09-14",
+    "CNAE fiscal principal": {
+        "codigo": 4761003,
+        "nome": "Comércio varejista de artigos de papelaria"
+    },
+    "Endereço UF": "SP",
+    "Endereço Município": "SAO PAULO",
+    "Data de Início da Atividade": "2021-09-14",
+    "Sócios": []
+},
+{
+    "CNPJ": "36895360000146",
+    "Razão social": "VALENCY TRADE SERVICE LTDA",
+    "Porte": "ME",
+    "Nome Fantasia": "VALENCY TRADE SERVICE",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2020-04-08",
+    "CNAE fiscal principal": {
+        "codigo": 4781400,
+        "nome": "Comércio varejista de artigos do vestuário e acessórios"
+    },
+    "Endereço UF": "RJ",
+    "Endereço Município": "RIO DE JANEIRO",
+    "Data de Início da Atividade": "2020-04-08",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "ICARO RODRIGUES MEIRINO",
+            "doc": "***699432**",
             "qualificacao": "Sócio-Administrador",
-            "data_entrada": "1998-12-23",
+            "data_entrada": "2022-09-27",
+            "pais": "",
+            "faixa_etaria": "21 a 30 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "41436210000104",
+    "Razão social": "ROBSPIERRE PIRES PACHECO LOBO JUNIOR",
+    "Porte": "ME",
+    "Nome Fantasia": "NORTEL SERVICOS",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2021-04-01",
+    "CNAE fiscal principal": {
+        "codigo": 8211300,
+        "nome": "Serviços combinados de escritório e apoio administrativo"
+    },
+    "Endereço UF": "AM",
+    "Endereço Município": "MANAUS",
+    "Data de Início da Atividade": "2021-04-01",
+    "Sócios": []
+},
+{
+    "CNPJ": "05621087000138",
+    "Razão social": "ADN COMERCIO E DISTRIBUICAO DE PRODUTOS DE LIMPEZA LTDA",
+    "Porte": "ME",
+    "Nome Fantasia": "ADN COMERCIO E DISTRIBUICAO",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2005-11-03",
+    "CNAE fiscal principal": {
+        "codigo": 4649408,
+        "nome": "Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar"
+    },
+    "Endereço UF": "DF",
+    "Endereço Município": "BRASILIA",
+    "Data de Início da Atividade": "2003-04-14",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "ROSELENE RODRIGUES DANTAS",
+            "doc": "***425911**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2015-05-22",
+            "pais": "",
+            "faixa_etaria": "71 a 80 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "16731837000140",
+    "Razão social": "ART STILO PAPELARIA, LIVRARIA, COMERCIO E INFORMATICA LTDA",
+    "Porte": "",
+    "Nome Fantasia": "PAPELARIA ART STILO",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2012-08-20",
+    "CNAE fiscal principal": {
+        "codigo": 4751201,
+        "nome": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    },
+    "Endereço UF": "DF",
+    "Endereço Município": "BRASILIA",
+    "Data de Início da Atividade": "2012-08-20",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "MARIA APARECIDA BANDEIRA",
+            "doc": "***010771**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2012-08-20",
             "pais": "",
             "faixa_etaria": "51 a 60 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "08692456000171",
+    "Razão social": "BNB COMERCIO DE EQUIPAMENTOS DE INFORMATICA LTDA",
+    "Porte": "ME",
+    "Nome Fantasia": null,
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2007-03-02",
+    "CNAE fiscal principal": {
+        "codigo": 4751201,
+        "nome": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    },
+    "Endereço UF": "SP",
+    "Endereço Município": "CATANDUVA",
+    "Data de Início da Atividade": "2007-03-02",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "LUCAS JOSE BONESSO",
+            "doc": "***593548**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2008-02-18",
+            "pais": "",
+            "faixa_etaria": "41 a 50 anos",
             "representante_legal": {
                 "nome": "",
                 "doc": "***000000**",
@@ -743,12 +1183,562 @@
         },
         {
             "tipo": "Pessoa física",
-            "nome": "CELSO PRIMI",
-            "doc": "***744716**",
+            "nome": "CAROLINA ALICE BRAGIOLA BONESSO",
+            "doc": "***453328**",
+            "qualificacao": "Sócio",
+            "data_entrada": "2017-02-15",
+            "pais": "",
+            "faixa_etaria": "41 a 50 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "21494511000187",
+    "Razão social": "GREEN HOUSE COMERCIO DE PRODUTOS DE LIMPEZA LTDA",
+    "Porte": "ME",
+    "Nome Fantasia": "GREEN HOUSE",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2014-11-26",
+    "CNAE fiscal principal": {
+        "codigo": 4789005,
+        "nome": "Comércio varejista de produtos saneantes domissanitários"
+    },
+    "Endereço UF": "DF",
+    "Endereço Município": "BRASILIA",
+    "Data de Início da Atividade": "2014-11-26",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "LEANDRO SANTOS DE SA",
+            "doc": "***030441**",
             "qualificacao": "Sócio-Administrador",
-            "data_entrada": "1998-12-23",
+            "data_entrada": "2014-11-26",
+            "pais": "",
+            "faixa_etaria": "31 a 40 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        },
+        {
+            "tipo": "Pessoa física",
+            "nome": "LUCAS COELHO TEIXEIRA",
+            "doc": "***175981**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2021-02-11",
+            "pais": "",
+            "faixa_etaria": "31 a 40 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "21589394000135",
+    "Razão social": "IMPERIO INDUSTRIA E COMERCIO DE BANDEIRAS LTDA",
+    "Porte": "ME",
+    "Nome Fantasia": "IMPERIO DAS BANDEIRAS",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2014-12-18",
+    "CNAE fiscal principal": {
+        "codigo": 1359600,
+        "nome": "Fabricação de outros produtos têxteis não especificados anteriormente"
+    },
+    "Endereço UF": "GO",
+    "Endereço Município": "",
+    "Data de Início da Atividade": "2014-12-18",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "ROSANA MIRANDA RODRIGUES",
+            "doc": "***224801**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2021-10-07",
+            "pais": "",
+            "faixa_etaria": "41 a 50 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "90180605000102",
+    "Razão social": "GENTE SEGURADORA SA",
+    "Porte": "",
+    "Nome Fantasia": "GENTE SEGURADORA",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2005-11-03",
+    "CNAE fiscal principal": {
+        "codigo": 6512000,
+        "nome": "Sociedade seguradora de seguros não vida"
+    },
+    "Endereço UF": "RS",
+    "Endereço Município": "PORTO ALEGRE",
+    "Data de Início da Atividade": "1984-12-04",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "MARCELO WAIS",
+            "doc": "***005380**",
+            "qualificacao": "Diretor",
+            "data_entrada": "1995-05-11",
+            "pais": "",
+            "faixa_etaria": "41 a 50 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        },
+        {
+            "tipo": "Pessoa física",
+            "nome": "SERGIO SUSLIK WAIS",
+            "doc": "***422780**",
+            "qualificacao": "Presidente",
+            "data_entrada": "1984-12-04",
+            "pais": "",
+            "faixa_etaria": "71 a 80 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        },
+        {
+            "tipo": "Pessoa física",
+            "nome": "EDUARDO WAIS",
+            "doc": "***533430**",
+            "qualificacao": "Diretor",
+            "data_entrada": "2020-12-09",
+            "pais": "",
+            "faixa_etaria": "31 a 40 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        },
+        {
+            "tipo": "Pessoa física",
+            "nome": "TANIA WAIS",
+            "doc": "***049030**",
+            "qualificacao": "Diretor",
+            "data_entrada": "1984-12-04",
+            "pais": "",
+            "faixa_etaria": "71 a 80 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "18550007000142",
+    "Razão social": "AUTPRESS DISTRIBUIDORA COMERCIO E SERVICOS LTDA",
+    "Porte": "ME",
+    "Nome Fantasia": "AUTPRESS",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2013-07-12",
+    "CNAE fiscal principal": {
+        "codigo": 4712100,
+        "nome": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    },
+    "Endereço UF": "RJ",
+    "Endereço Município": "CAMPOS DOS GOYTACAZES",
+    "Data de Início da Atividade": "2013-07-12",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "MARIA MANUELA CARVALHO AMARAL",
+            "doc": "***945371**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2018-08-23",
             "pais": "",
             "faixa_etaria": "51 a 60 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "18929699000134",
+    "Razão social": "DMZ INDUSTRIA E COMERCIO LTDA",
+    "Porte": "ME",
+    "Nome Fantasia": "DMZ GLOBAL CONNECTION",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2013-09-20",
+    "CNAE fiscal principal": {
+        "codigo": 4751201,
+        "nome": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    },
+    "Endereço UF": "SP",
+    "Endereço Município": "SAO CAETANO DO SUL",
+    "Data de Início da Atividade": "2013-09-20",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "DANIEL LA GUARDIA CORREIA MAZZEU",
+            "doc": "***927778**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2021-06-01",
+            "pais": "",
+            "faixa_etaria": "41 a 50 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "41063862000140",
+    "Razão social": "AKITEM COMERCIO E DISTRIBUICAO LTDA",
+    "Porte": "",
+    "Nome Fantasia": "AKITEM",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2021-03-02",
+    "CNAE fiscal principal": {
+        "codigo": 4789099,
+        "nome": "Comércio varejista de outros produtos não especificados anteriormente"
+    },
+    "Endereço UF": "RJ",
+    "Endereço Município": "RIO DE JANEIRO",
+    "Data de Início da Atividade": "2021-03-02",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "VINICIUS DA SILVA NEVES",
+            "doc": "***829057**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2021-03-02",
+            "pais": "",
+            "faixa_etaria": "31 a 40 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        },
+        {
+            "tipo": "Pessoa física",
+            "nome": "SAMIRA DE OLIVEIRA PERES",
+            "doc": "***750957**",
+            "qualificacao": "Sócio",
+            "data_entrada": "2021-11-04",
+            "pais": "",
+            "faixa_etaria": "71 a 80 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "38490105000149",
+    "Razão social": "T. JANSER DE ALMEIDA CORREA ATACADISTA LTDA",
+    "Porte": "",
+    "Nome Fantasia": "GRUPO MGX LICITACOES",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2020-09-16",
+    "CNAE fiscal principal": {
+        "codigo": 7112000,
+        "nome": "Serviços de engenharia"
+    },
+    "Endereço UF": "RJ",
+    "Endereço Município": "CABO FRIO",
+    "Data de Início da Atividade": "2020-09-16",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "THIAGO JANSER DE ALMEIDA CORREA",
+            "doc": "***187557**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2021-04-26",
+            "pais": "",
+            "faixa_etaria": "41 a 50 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "30680100000177",
+    "Razão social": "JTH COMERCIO LTDA",
+    "Porte": "",
+    "Nome Fantasia": "JTH COMERCIO",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2018-06-12",
+    "CNAE fiscal principal": {
+        "codigo": 8211300,
+        "nome": "Serviços combinados de escritório e apoio administrativo"
+    },
+    "Endereço UF": "RJ",
+    "Endereço Município": "RIO DAS OSTRAS",
+    "Data de Início da Atividade": "2018-06-12",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "JONATHAN THIAGO OLIVEIRA LIMA",
+            "doc": "***451587**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2020-10-13",
+            "pais": "",
+            "faixa_etaria": "31 a 40 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "44136177000195",
+    "Razão social": "DIAS RODRIGUES REFORMAS E CONSTRUCOES LTDA",
+    "Porte": "ME",
+    "Nome Fantasia": "CONSTRUTORA RODRIGUES",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2021-11-05",
+    "CNAE fiscal principal": {
+        "codigo": 4330402,
+        "nome": "Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material"
+    },
+    "Endereço UF": "DF",
+    "Endereço Município": "BRASILIA",
+    "Data de Início da Atividade": "2021-11-05",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "SHIMENIA DIAS RODRIGUES",
+            "doc": "***427991**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2021-11-05",
+            "pais": "",
+            "faixa_etaria": "41 a 50 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "17698346000108",
+    "Razão social": "JORGE WILTON BARNABE COELHO",
+    "Porte": "ME",
+    "Nome Fantasia": "ENCADERNADORA IPANEMA",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2013-03-04",
+    "CNAE fiscal principal": {
+        "codigo": 1822901,
+        "nome": "Serviços de encadernação e plastificação"
+    },
+    "Endereço UF": "DF",
+    "Endereço Município": "BRASILIA",
+    "Data de Início da Atividade": "2013-03-04",
+    "Sócios": []
+},
+{
+    "CNPJ": "16820967000150",
+    "Razão social": "INVISTA BUSINESS DISTRIBUIDORA, SERVICOS E LOCACOES LTDA",
+    "Porte": "",
+    "Nome Fantasia": "INVISTA BUSINESS",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2012-09-10",
+    "CNAE fiscal principal": {
+        "codigo": 4651601,
+        "nome": "Comércio atacadista de equipamentos de informática"
+    },
+    "Endereço UF": "RJ",
+    "Endereço Município": "SAQUAREMA",
+    "Data de Início da Atividade": "2012-09-10",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "PAULO FERNANDO DA SILVA SOUZA",
+            "doc": "***040647**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2012-09-10",
+            "pais": "",
+            "faixa_etaria": "21 a 30 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "44036939000181",
+    "Razão social": "TRVO COMERCIO ATACADISTA LTDA",
+    "Porte": "ME",
+    "Nome Fantasia": "TRVO",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2021-10-27",
+    "CNAE fiscal principal": {
+        "codigo": 4651601,
+        "nome": "Comércio atacadista de equipamentos de informática"
+    },
+    "Endereço UF": "PR",
+    "Endereço Município": "CURITIBA",
+    "Data de Início da Atividade": "2021-10-27",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "MARIA DE FATIMA BARBOSA BUENO",
+            "doc": "***156738**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2021-10-27",
+            "pais": "",
+            "faixa_etaria": "41 a 50 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        },
+        {
+            "tipo": "Pessoa física",
+            "nome": "BRUNO BARBOSA LATCZUK",
+            "doc": "***463099**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2022-06-30",
+            "pais": "",
+            "faixa_etaria": "21 a 30 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "31362547000160",
+    "Razão social": "EDITORA 1 GRAFICA E EDITORA LTDA",
+    "Porte": "",
+    "Nome Fantasia": "ARTCOLLOR EDITORA E GRAFICA",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2018-08-28",
+    "CNAE fiscal principal": {
+        "codigo": 1822999,
+        "nome": "Serviços de acabamentos gráficos, exceto encadernação e plastificação"
+    },
+    "Endereço UF": "DF",
+    "Endereço Município": "BRASILIA",
+    "Data de Início da Atividade": "2018-08-28",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "WESTER JOSE DA SILVA",
+            "doc": "***597891**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2018-08-28",
+            "pais": "",
+            "faixa_etaria": "51 a 60 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "33275120000150",
+    "Razão social": "SUPER LICITE LICITACOES LTDA",
+    "Porte": "",
+    "Nome Fantasia": "SUPER LICITE LICITACOES",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2019-04-07",
+    "CNAE fiscal principal": {
+        "codigo": 4751201,
+        "nome": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    },
+    "Endereço UF": "SC",
+    "Endereço Município": "SAO JOSE",
+    "Data de Início da Atividade": "2019-04-07",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "VANDERLEI ALVES",
+            "doc": "***027629**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2020-10-16",
+            "pais": "",
+            "faixa_etaria": "41 a 50 anos",
+            "representante_legal": {
+                "nome": "",
+                "doc": "***000000**",
+                "qualificacao": "Não informada"
+            }
+        }
+    ]
+},
+{
+    "CNPJ": "44420375000186",
+    "Razão social": "ARTHUR MEDEIROS 11316504689",
+    "Porte": "ME",
+    "Nome Fantasia": "AJ COMERCIO DE PRODUTOS GERAIS",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2021-11-30",
+    "CNAE fiscal principal": {
+        "codigo": 4929902,
+        "nome": "Transporte rodoviário coletivo de passageiros, sob regime de fretamento, intermunicipal, interestadual e internacional"
+    },
+    "Endereço UF": "DF",
+    "Endereço Município": "BRASILIA",
+    "Data de Início da Atividade": "2021-11-30",
+    "Sócios": []
+},
+{
+    "CNPJ": "09140225000118",
+    "Razão social": "P & B SISTEMAS DE SEGURANCA LTDA",
+    "Porte": "ME",
+    "Nome Fantasia": "SUDOESTE EXTINTORES",
+    "Situação Cadastral": "Ativa",
+    "Data da Situação Cadastral": "2007-10-15",
+    "CNAE fiscal principal": {
+        "codigo": 4789099,
+        "nome": "Comércio varejista de outros produtos não especificados anteriormente"
+    },
+    "Endereço UF": "DF",
+    "Endereço Município": "BRASILIA",
+    "Data de Início da Atividade": "2007-10-15",
+    "Sócios": [
+        {
+            "tipo": "Pessoa física",
+            "nome": "ANDRE PAZ DE LIMA",
+            "doc": "***540891**",
+            "qualificacao": "Sócio-Administrador",
+            "data_entrada": "2019-06-12",
+            "pais": "",
+            "faixa_etaria": "41 a 50 anos",
             "representante_legal": {
                 "nome": "",
                 "doc": "***000000**",
