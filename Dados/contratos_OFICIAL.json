@@ -1,2 +1,110 @@
-
+[
+{
+    "Modalidade": "Dispensa",
+    "Código": "00889834000108-1-000001/2022",
+    "UF": "Distrito Federal",
+    "Órgão Entidade": "FUND COORD DE APERFEICOAMENTO DE PESSOAL DE NIVEL SUP",
+    "Objeto da Compra": "Contratação por dispensa de licitação de  empresa especializada na prestação de serviço de fornecimento de exemplares de jornais e revistas em versão digital para atender à demanda da CAPES, conforme a periodicidade de sua edição, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta e seus anexos.",
+    "Ano da Compra": 2022,
+    "Valor Total Estimado": 15396.0,
+    "Valor Total Homologado": 15367.0,
+    "Empresas Contratadas": {
+        "Empresa Contratada -1": "BIDME INTERMEDIACOES E MARKETING LTDA.",
+        "CNPJ -1": "23090165000105",
+        "Valor Recebido -1": 15367.0,
+        "Descrição -1": "Assinatura de Jornais e Periódicos / ACERVO BIBLIOGRÁFICO - com Acesso-On-Line"
+    }
+},
+{
+    "Modalidade": "Dispensa",
+    "Código": "26474056000171-1-000001/2022",
+    "UF": "Distrito Federal",
+    "Órgão Entidade": "INSTITUTO DO PATRIMONIO HISTORICO E ARTISTICO NACIONAL",
+    "Objeto da Compra": "Contratação de empresa especializada para prestação de serviços de manutenção preventiva, preditiva e corretiva de todos os sistemas de elevadores instalados nas dependências do Centro Empresarial Brasília 50, em Brasília, com fornecimento de toda a mão-de-obra, materiais e equipamentos necessários à execução dos serviços, conforme condições, quantidades e exigências estabelecidas no Aviso de Dispensa Eletrônica nº 02/2022 e seus Anexos.",
+    "Ano da Compra": 2022,
+    "Valor Total Estimado": 38716.63,
+    "Valor Total Homologado": 38716.56,
+    "Empresas Contratadas": {
+        "Empresa Contratada -1": "OVER ELEVADORES EIRELI",
+        "CNPJ -1": "10629386000159",
+        "Valor Recebido -1": 38716.56,
+        "Descrição -1": "Instalação / Manutenção - Elevadores, Escadas Rolantes, Mon-ta - Cargas / Plataforma / Escadas"
+    }
+},
+{
+    "Modalidade": "Dispensa",
+    "Código": "00394502000144-1-000001/2022",
+    "UF": "Distrito Federal",
+    "Órgão Entidade": "COMANDO DA MARINHA",
+    "Objeto da Compra": "O objeto desta contratação visa suprir as necessidades de aparelhos eletrônicos para apoio dos componentes das diversas reuniões administrativas que ocorrem no âmbito do Gabinete do Comandante da Marinha.",
+    "Ano da Compra": 2022,
+    "Valor Total Estimado": 16090.0,
+    "Valor Total Homologado": 28000.0,
+    "Empresas Contratadas": {
+        "Empresa Contratada -1": "FERNANDA AMBROSIO ALCANTARA 10795559607",
+        "CNPJ -1": "44312414000121",
+        "Valor Recebido -1": 14000.0,
+        "Descrição -1": "Tablet"
+    }
+},
+{
+    "Modalidade": "Dispensa",
+    "Código": "33839275000172-1-000001/2022",
+    "UF": "Distrito Federal",
+    "Órgão Entidade": "CONSELHO FEDERAL DE QUIMICA",
+    "Objeto da Compra": "Contratação de treinamento na área de compras e licitações com base na Lei n° 8.666/93 em paralelo com a Lei n° 14.133/2021 e gestão e fiscalização de contratos administrativos com fundamento na Lei n° 8.666/93 e na IN n° 05/2017 em paralelo com a Lei n° 14.133/2021.",
+    "Ano da Compra": 2022,
+    "Valor Total Estimado": 0.0,
+    "Valor Total Homologado": 17700.0,
+    "Empresas Contratadas": {
+        "Empresa Contratada -1": "TRAVESSIA CONSULTORIA EM GESTAO EMPRESARIAL LTDA",
+        "CNPJ -1": "36484942000130",
+        "Valor Recebido -1": 9000.0,
+        "Descrição -1": "Treinamento na área de administração pública",
+        "Empresa Contratada -2": "TRAVESSIA CONSULTORIA EM GESTAO EMPRESARIAL LTDA",
+        "CNPJ -2": "36484942000130",
+        "Valor Recebido -2": 8700.0,
+        "Descrição -2": "Treinamento na área de administração pública"
+    }
+},
+{
+    "Modalidade": "Dispensa",
+    "Código": "15126437000143-1-000013/2022",
+    "UF": "Distrito Federal",
+    "Órgão Entidade": "EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES",
+    "Objeto da Compra": "Contratação de empresa especializada para prestação de serviço de confecção e instalação de totem externo.",
+    "Ano da Compra": 2022,
+    "Valor Total Estimado": 23200.0,
+    "Valor Total Homologado": 14900.0,
+    "Empresas Contratadas": {
+        "Empresa Contratada -1": "ELDER PEREIRA NASCIMENTO 45703779120",
+        "CNPJ -1": "36744424000108",
+        "Valor Recebido -1": 14900.0,
+        "Descrição -1": "Totem Identificação"
+    }
+},
+{
+    "Modalidade": "Dispensa",
+    "Código": "26994558000123-1-000002/2022",
+    "UF": "Distrito Federal",
+    "Órgão Entidade": "ADVOCACIA GERAL DA UNIAO",
+    "Objeto da Compra": "Contratação de serviços continuados, por meio de SEGURADORA especializada em seguro   automotivo, com franquia reduzida, para a frota de veículos automotivos pertencentes à utilizada pela Advocacia Geral da União no estado de Goiás/GO.",
+    "Ano da Compra": 2022,
+    "Valor Total Estimado": 3859.41,
+    "Valor Total Homologado": 1090.0,
+    "Empresas Contratadas": {
+        "Empresa Contratada -1": "GENTE SEGURADORA SA",
+        "CNPJ -1": "90180605000102",
+        "Valor Recebido -1": 270.0,
+        "Descrição -1": "Seguro / garantia",
+        "Empresa Contratada -2": "GENTE SEGURADORA SA",
+        "CNPJ -2": "90180605000102",
+        "Valor Recebido -2": 550.0,
+        "Descrição -2": "Seguro / garantia",
+        "Empresa Contratada -3": "GENTE SEGURADORA SA",
+        "CNPJ -3": "90180605000102",
+        "Valor Recebido -3": 270.0,
+        "Descrição -3": "Seguro / garantia"
+    }
+}
 ]
