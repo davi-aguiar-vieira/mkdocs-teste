@@ -1,5 +1,2357 @@
 [
     {
+        "Código": "00394536000139-1-000001/2021",
+        "Empresa Contratada": "BETTA INSTALACAO, MANUTENCAO E COMERCIO LTDA",
+        "CNPJ": "03231368000159",
+        "Valor Recebido": 87000.0,
+        "Descrição": "Serviço engenharia"
+    },
+    {
+        "Código": "00394452000103-1-000011/2021",
+        "Empresa Contratada": "ELUMI COMERCIO DE EQUIPAMENTOS EIRELI",
+        "CNPJ": "09070369000145",
+        "Valor Recebido": 8790.0,
+        "Descrição": "Forno elétrico"
+    },
+    {
+        "Código": "00394452000103-1-000011/2021",
+        "Empresa Contratada": "SERGIO DOMINGUES E CIA LTDA",
+        "CNPJ": "30996156000135",
+        "Valor Recebido": 1199.0,
+        "Descrição": "Assadeira"
+    },
+    {
+        "Código": "00394452000103-1-000011/2021",
+        "Empresa Contratada": "ADONAI COMERCIO DE MAQUINAS E EQUIPAMENTOS EIRELI",
+        "CNPJ": "17356181000196",
+        "Valor Recebido": 649.7,
+        "Descrição": "Assadeira"
+    },
+    {
+        "Código": "00394452000103-1-000011/2021",
+        "Empresa Contratada": "SERGIO DOMINGUES E CIA LTDA",
+        "CNPJ": "30996156000135",
+        "Valor Recebido": 1989.97,
+        "Descrição": "Armário panificação"
+    },
+    {
+        "Código": "00394452000103-1-000011/2021",
+        "Empresa Contratada": "ADONAI COMERCIO DE MAQUINAS E EQUIPAMENTOS EIRELI",
+        "CNPJ": "17356181000196",
+        "Valor Recebido": 550.0,
+        "Descrição": "Assadeira"
+    },
+    {
+        "Código": "00394452000103-1-000011/2021",
+        "Empresa Contratada": "LUCAS SILVA DO ROSARIO 03999318139",
+        "CNPJ": "31180776000164",
+        "Valor Recebido": 9390.0,
+        "Descrição": "Balcão térmico - peças,acessórios"
+    },
+    {
+        "Código": "00394452000103-1-000033/2021",
+        "Empresa Contratada": "LUCAS SILVA DO ROSARIO 03999318139",
+        "CNPJ": "31180776000164",
+        "Valor Recebido": 1155.0,
+        "Descrição": "Taça"
+    },
+    {
+        "Código": "37753638000103-1-000002/2021",
+        "Empresa Contratada": "GIOVANNA MACHADO E PAIVA 13497360660",
+        "CNPJ": "42344962000108",
+        "Valor Recebido": 1280.0,
+        "Descrição": "Memória em cartão magnético"
+    },
+    {
+        "Código": "00394452000103-1-000051/2021",
+        "Empresa Contratada": "ART PLACAS COMUNICACAO VISUAL LTDA",
+        "CNPJ": "08636629000134",
+        "Valor Recebido": 312.0,
+        "Descrição": "Placa identificacao - codigo barra , patrimonio"
+    },
+    {
+        "Código": "00394452000103-1-000051/2021",
+        "Empresa Contratada": "ART PLACAS COMUNICACAO VISUAL LTDA",
+        "CNPJ": "08636629000134",
+        "Valor Recebido": 1200.0,
+        "Descrição": "Placa identificacao - codigo barra , patrimonio"
+    },
+    {
+        "Código": "00394452000103-1-000051/2021",
+        "Empresa Contratada": "ART PLACAS COMUNICACAO VISUAL LTDA",
+        "CNPJ": "08636629000134",
+        "Valor Recebido": 10.8,
+        "Descrição": "Placa identificacao - codigo barra , patrimonio"
+    },
+    {
+        "Código": "00348003000110-1-000004/2021",
+        "Empresa Contratada": "MARCIO DURAU RODRIGUES 57285152153",
+        "CNPJ": "34502580000137",
+        "Valor Recebido": 3135.0,
+        "Descrição": "Adaptador teclado"
+    },
+    {
+        "Código": "37115383000153-1-000001/2021",
+        "Empresa Contratada": "DIAGRAMA TECNOLOGIA EIRELI",
+        "CNPJ": "10918347000171",
+        "Valor Recebido": 5967.0,
+        "Descrição": "Correia alimentação"
+    },
+    {
+        "Código": "00394494010441-1-000001/2021",
+        "Empresa Contratada": "WINDOC GESTAO DE DOCUMENTOS LTDA",
+        "CNPJ": "40997647000154",
+        "Valor Recebido": 20520.0,
+        "Descrição": "Outsourcing de  impressão - páginas a4 - monocromático - dentro da franquia sem papel"
+    },
+    {
+        "Código": "00038166000105-1-000001/2021",
+        "Empresa Contratada": "APOLYANE FARIAS LOPES 02888054108",
+        "CNPJ": "37123828000147",
+        "Valor Recebido": 34320.0,
+        "Descrição": "Memória ram"
+    },
+    {
+        "Código": "37115383000153-1-000002/2021",
+        "Empresa Contratada": "AMV FESTAS & EVENTOS LTDA",
+        "CNPJ": "14911164000185",
+        "Valor Recebido": 16099.5,
+        "Descrição": "Buffet"
+    },
+    {
+        "Código": "00394452000103-1-000132/2021",
+        "Empresa Contratada": "IGOR OLIVEIRA MALHEIROS 44045449876",
+        "CNPJ": "40024285000115",
+        "Valor Recebido": 1280.0,
+        "Descrição": "Material laboratório"
+    },
+    {
+        "Código": "00394452000103-1-000133/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 11092.5,
+        "Descrição": "Palete"
+    },
+    {
+        "Código": "00394494010441-1-000002/2021",
+        "Empresa Contratada": "CONSTRUTORA VERTICE LTDA",
+        "CNPJ": "09019058000151",
+        "Valor Recebido": 62333.0,
+        "Descrição": "Supervisão , gerenciamento , fiscalização - projeto constru-ção , obras civis"
+    },
+    {
+        "Código": "00394684000153-1-000003/2021",
+        "Empresa Contratada": "VIVO LICITACOES EIRELI",
+        "CNPJ": "30041676000194",
+        "Valor Recebido": 4698.0,
+        "Descrição": "Maleta"
+    },
+    {
+        "Código": "00394684000153-1-000003/2021",
+        "Empresa Contratada": "TATIANE CECILIA BRAZ 04243496633",
+        "CNPJ": "30714883000162",
+        "Valor Recebido": 3600.0,
+        "Descrição": "Dispositivo com memoria"
+    },
+    {
+        "Código": "03277610000125-1-000001/2021",
+        "Empresa Contratada": "DT OFFICE - DISTRIBUIDOR DE ELETRONICOS EIRELI",
+        "CNPJ": "30019904000120",
+        "Valor Recebido": 695.99,
+        "Descrição": "Bebedouro água garrafão"
+    },
+    {
+        "Código": "37115383000153-1-000004/2021",
+        "Empresa Contratada": "ELDEX DISTRIBUIDORA DE JORNAIS E REVISTAS LTDA",
+        "CNPJ": "10719671000160",
+        "Valor Recebido": 16341.72,
+        "Descrição": "Assinatura de jornais e periódicos acesso sistema on-line"
+    },
+    {
+        "Código": "00394452000103-1-000230/2021",
+        "Empresa Contratada": "JCG LOG EIRELI",
+        "CNPJ": "41481191000138",
+        "Valor Recebido": 169.86,
+        "Descrição": "Adesivo colagem"
+    },
+    {
+        "Código": "00394452000103-1-000230/2021",
+        "Empresa Contratada": "J&V COMUNICACAO EIRELI",
+        "CNPJ": "31095478000176",
+        "Valor Recebido": 500.0,
+        "Descrição": "Placa identificação"
+    },
+    {
+        "Código": "00394452000103-1-000230/2021",
+        "Empresa Contratada": "JCG LOG EIRELI",
+        "CNPJ": "41481191000138",
+        "Valor Recebido": 169.86,
+        "Descrição": "Adesivo colagem"
+    },
+    {
+        "Código": "00394452000103-1-000230/2021",
+        "Empresa Contratada": "JCG LOG EIRELI",
+        "CNPJ": "41481191000138",
+        "Valor Recebido": 1600.0,
+        "Descrição": "Brasão institucional"
+    },
+    {
+        "Código": "00394452000103-1-000230/2021",
+        "Empresa Contratada": "JCG LOG EIRELI",
+        "CNPJ": "41481191000138",
+        "Valor Recebido": 169.86,
+        "Descrição": "Adesivo colagem"
+    },
+    {
+        "Código": "00394452000103-1-000230/2021",
+        "Empresa Contratada": "JCG LOG EIRELI",
+        "CNPJ": "41481191000138",
+        "Valor Recebido": 169.84,
+        "Descrição": "Adesivo colagem"
+    },
+    {
+        "Código": "00394452000103-1-000230/2021",
+        "Empresa Contratada": "JCG LOG EIRELI",
+        "CNPJ": "41481191000138",
+        "Valor Recebido": 169.86,
+        "Descrição": "Adesivo colagem"
+    },
+    {
+        "Código": "00394452000103-1-000230/2021",
+        "Empresa Contratada": "JCG LOG EIRELI",
+        "CNPJ": "41481191000138",
+        "Valor Recebido": 169.86,
+        "Descrição": "Adesivo colagem"
+    },
+    {
+        "Código": "00394452000103-1-000230/2021",
+        "Empresa Contratada": "JCG LOG EIRELI",
+        "CNPJ": "41481191000138",
+        "Valor Recebido": 169.86,
+        "Descrição": "Adesivo colagem"
+    },
+    {
+        "Código": "00394452000103-1-000230/2021",
+        "Empresa Contratada": "JCG LOG EIRELI",
+        "CNPJ": "41481191000138",
+        "Valor Recebido": 449.87,
+        "Descrição": "Faixa divulgação de eventos"
+    },
+    {
+        "Código": "00394452000103-1-000230/2021",
+        "Empresa Contratada": "JCG LOG EIRELI",
+        "CNPJ": "41481191000138",
+        "Valor Recebido": 290.0,
+        "Descrição": "Brasão institucional"
+    },
+    {
+        "Código": "00394452000103-1-000230/2021",
+        "Empresa Contratada": "JR ARTIGOS DE DECORACOES E CORTINAS EIRELI",
+        "CNPJ": "00857865000179",
+        "Valor Recebido": 2247.1,
+        "Descrição": "Persiana"
+    },
+    {
+        "Código": "00394452000103-1-000230/2021",
+        "Empresa Contratada": "JCG LOG EIRELI",
+        "CNPJ": "41481191000138",
+        "Valor Recebido": 499.99,
+        "Descrição": "Placa acrílica"
+    },
+    {
+        "Código": "00394452000103-1-000230/2021",
+        "Empresa Contratada": "JCG LOG EIRELI",
+        "CNPJ": "41481191000138",
+        "Valor Recebido": 1000.0,
+        "Descrição": "Toalha mesa"
+    },
+    {
+        "Código": "00394452000103-1-000230/2021",
+        "Empresa Contratada": "JCG LOG EIRELI",
+        "CNPJ": "41481191000138",
+        "Valor Recebido": 3200.0,
+        "Descrição": "Máscara cirúrgica"
+    },
+    {
+        "Código": "00394452000103-1-000230/2021",
+        "Empresa Contratada": "JCG LOG EIRELI",
+        "CNPJ": "41481191000138",
+        "Valor Recebido": 698.73,
+        "Descrição": "Máquina café"
+    },
+    {
+        "Código": "00394452000103-1-000235/2021",
+        "Empresa Contratada": "DROGARIA PVF EIRELI",
+        "CNPJ": "30626887000199",
+        "Valor Recebido": 207.99,
+        "Descrição": "Medidor de pressão absoluta"
+    },
+    {
+        "Código": "00394494000136-1-000015/2021",
+        "Empresa Contratada": "ACCESSUS AVALIACOES DE BENS E IMOVEIS LTDA",
+        "CNPJ": "38284506000142",
+        "Valor Recebido": 9650.0,
+        "Descrição": "Perícia, laudo e avaliação"
+    },
+    {
+        "Código": "00394452000103-1-000275/2021",
+        "Empresa Contratada": "LEONARDO FRANCISCO DA SILVA 82162727668",
+        "CNPJ": "31724820000150",
+        "Valor Recebido": 994.0,
+        "Descrição": "Régua elétrica"
+    },
+    {
+        "Código": "00394452000103-1-000298/2021",
+        "Empresa Contratada": "GMO SOLUCOES COMERCIAIS EIRELI",
+        "CNPJ": "13505280000131",
+        "Valor Recebido": 15000.0,
+        "Descrição": "Ar condicionado - estudos e projetos de sistema"
+    },
+    {
+        "Código": "00394452000103-1-000298/2021",
+        "Empresa Contratada": "LARISSA AQUINO DE MEDEIROS",
+        "CNPJ": "21638856000167",
+        "Valor Recebido": 862.34,
+        "Descrição": "Bobina para rele"
+    },
+    {
+        "Código": "00394452000103-1-000298/2021",
+        "Empresa Contratada": "LARISSA AQUINO DE MEDEIROS",
+        "CNPJ": "21638856000167",
+        "Valor Recebido": 443.18,
+        "Descrição": "Bobina para rele"
+    },
+    {
+        "Código": "00394452000103-1-000298/2021",
+        "Empresa Contratada": "RAFAEL LIMA DINIZ 70263043134",
+        "CNPJ": "39805124000180",
+        "Valor Recebido": 100.0,
+        "Descrição": "Barra de plástico"
+    },
+    {
+        "Código": "00394452000103-1-000298/2021",
+        "Empresa Contratada": "RAFAEL LIMA DINIZ 70263043134",
+        "CNPJ": "39805124000180",
+        "Valor Recebido": 100.0,
+        "Descrição": "Barra de plástico"
+    },
+    {
+        "Código": "00394452000103-1-000298/2021",
+        "Empresa Contratada": "RAFAEL LIMA DINIZ 70263043134",
+        "CNPJ": "39805124000180",
+        "Valor Recebido": 102.0,
+        "Descrição": "Curva francesa"
+    },
+    {
+        "Código": "00394452000103-1-000298/2021",
+        "Empresa Contratada": "LARISSA AQUINO DE MEDEIROS",
+        "CNPJ": "21638856000167",
+        "Valor Recebido": 100.2,
+        "Descrição": "Curva francesa"
+    },
+    {
+        "Código": "00394452000103-1-000298/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 600.0,
+        "Descrição": "Cabo audiofrequência"
+    },
+    {
+        "Código": "00394452000103-1-000298/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 210.0,
+        "Descrição": "Fita isolamento de area"
+    },
+    {
+        "Código": "00394452000103-1-000298/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 350.0,
+        "Descrição": "Gás refrigerante"
+    },
+    {
+        "Código": "00394452000103-1-000318/2021",
+        "Empresa Contratada": "DOUGLAS DE PAIVA DRUMOND 13663765792",
+        "CNPJ": "40929669000187",
+        "Valor Recebido": 355.96,
+        "Descrição": "Cartucho toner impressora brother"
+    },
+    {
+        "Código": "00394452000103-1-000318/2021",
+        "Empresa Contratada": "DOUGLAS DE PAIVA DRUMOND 13663765792",
+        "CNPJ": "40929669000187",
+        "Valor Recebido": 889.9,
+        "Descrição": "Cartucho toner impressora brother"
+    },
+    {
+        "Código": "00394452000103-1-000318/2021",
+        "Empresa Contratada": "DOUGLAS DE PAIVA DRUMOND 13663765792",
+        "CNPJ": "40929669000187",
+        "Valor Recebido": 1779.8,
+        "Descrição": "Cartucho toner impressora brother"
+    },
+    {
+        "Código": "00394452000103-1-000318/2021",
+        "Empresa Contratada": "DOUGLAS DE PAIVA DRUMOND 13663765792",
+        "CNPJ": "40929669000187",
+        "Valor Recebido": 634.96,
+        "Descrição": "Cartucho toner impressora brother"
+    },
+    {
+        "Código": "00394452000103-1-000318/2021",
+        "Empresa Contratada": "MARCOS S BIUDES EIRELI",
+        "CNPJ": "08257279000103",
+        "Valor Recebido": 376.0,
+        "Descrição": "Cartucho toner impressora brother"
+    },
+    {
+        "Código": "00394452000103-1-000318/2021",
+        "Empresa Contratada": "MARCOS S BIUDES EIRELI",
+        "CNPJ": "08257279000103",
+        "Valor Recebido": 376.0,
+        "Descrição": "Cartucho toner impressora brother"
+    },
+    {
+        "Código": "00394452000103-1-000318/2021",
+        "Empresa Contratada": "ASA COMERCIO E DISTRIBUIDOR DE PRODUTOS DE INFORMATICA",
+        "CNPJ": "34910336000103",
+        "Valor Recebido": 475.0,
+        "Descrição": "Cartucho toner impressora brother"
+    },
+    {
+        "Código": "00394452000103-1-000318/2021",
+        "Empresa Contratada": "ASA COMERCIO E DISTRIBUIDOR DE PRODUTOS DE INFORMATICA",
+        "CNPJ": "34910336000103",
+        "Valor Recebido": 130.0,
+        "Descrição": "Cartucho toner impressora hp"
+    },
+    {
+        "Código": "00394452000103-1-000318/2021",
+        "Empresa Contratada": "ASA COMERCIO E DISTRIBUIDOR DE PRODUTOS DE INFORMATICA",
+        "CNPJ": "34910336000103",
+        "Valor Recebido": 130.0,
+        "Descrição": "Cartucho toner impressora hp"
+    },
+    {
+        "Código": "00394452000103-1-000318/2021",
+        "Empresa Contratada": "ASA COMERCIO E DISTRIBUIDOR DE PRODUTOS DE INFORMATICA",
+        "CNPJ": "34910336000103",
+        "Valor Recebido": 260.0,
+        "Descrição": "Cartucho toner impressora hp"
+    },
+    {
+        "Código": "00394452000103-1-000319/2021",
+        "Empresa Contratada": "RODRIGO ANTONIO BRITO CAMARA 81111584168",
+        "CNPJ": "21884868000171",
+        "Valor Recebido": 1314.2,
+        "Descrição": "Placa madeira"
+    },
+    {
+        "Código": "00394452000103-1-000319/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 109.89,
+        "Descrição": "Fita borda"
+    },
+    {
+        "Código": "00394452000103-1-000319/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 210.0,
+        "Descrição": "Cola"
+    },
+    {
+        "Código": "00394452000103-1-000319/2021",
+        "Empresa Contratada": "RAFAEL LIMA DINIZ 70263043134",
+        "CNPJ": "39805124000180",
+        "Valor Recebido": 139.55,
+        "Descrição": "Solvente"
+    },
+    {
+        "Código": "00394452000103-1-000319/2021",
+        "Empresa Contratada": "RAFAEL LIMA DINIZ 70263043134",
+        "CNPJ": "39805124000180",
+        "Valor Recebido": 13.23,
+        "Descrição": "Trincha"
+    },
+    {
+        "Código": "00394452000103-1-000319/2021",
+        "Empresa Contratada": "RAFAEL LIMA DINIZ 70263043134",
+        "CNPJ": "39805124000180",
+        "Valor Recebido": 233.2,
+        "Descrição": "Lixa"
+    },
+    {
+        "Código": "00394452000103-1-000319/2021",
+        "Empresa Contratada": "RAFAEL LIMA DINIZ 70263043134",
+        "CNPJ": "39805124000180",
+        "Valor Recebido": 261.0,
+        "Descrição": "Lixa"
+    },
+    {
+        "Código": "00394452000103-1-000319/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 60.0,
+        "Descrição": "Ferrolho"
+    },
+    {
+        "Código": "00394452000103-1-000342/2021",
+        "Empresa Contratada": "CUNHA SCHMITT COMERCIO DE MERCADORIAS EM GERAL EIRELI",
+        "CNPJ": "10896147000165",
+        "Valor Recebido": 8399.82,
+        "Descrição": "Impermeabilizante"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "ZENITE COMERCIO E SUPRIMENTOS DE INFORMATICA UNIPESSOAL",
+        "CNPJ": "42933602000141",
+        "Valor Recebido": 497.0,
+        "Descrição": "Carga de caneta esferografica"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "ZENITE COMERCIO E SUPRIMENTOS DE INFORMATICA UNIPESSOAL",
+        "CNPJ": "42933602000141",
+        "Valor Recebido": 426.0,
+        "Descrição": "Carga de caneta esferografica"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "ZENITE COMERCIO E SUPRIMENTOS DE INFORMATICA UNIPESSOAL",
+        "CNPJ": "42933602000141",
+        "Valor Recebido": 350.0,
+        "Descrição": "Carga de caneta esferografica"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 71.95,
+        "Descrição": "Corretivo líquido"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 430.5,
+        "Descrição": "Fita adesiva"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "TECMIX DISTRIBUIDORA DE ARTIGOS DE ESCRITORIO E DE PAPE",
+        "CNPJ": "34888440000149",
+        "Valor Recebido": 103.8,
+        "Descrição": "Grampo grampeador"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 448.5,
+        "Descrição": "Caneta para toque tela"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 60.0,
+        "Descrição": "Caneta para toque tela"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "TECMIX DISTRIBUIDORA DE ARTIGOS DE ESCRITORIO E DE PAPE",
+        "CNPJ": "34888440000149",
+        "Valor Recebido": 136.0,
+        "Descrição": "Organizador"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "TECMIX DISTRIBUIDORA DE ARTIGOS DE ESCRITORIO E DE PAPE",
+        "CNPJ": "34888440000149",
+        "Valor Recebido": 67.14,
+        "Descrição": "Perfuradora papel para espiral"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "NEGOCIOSINVEST IND COM E SERV LTDA",
+        "CNPJ": "42866736000197",
+        "Valor Recebido": 180.0,
+        "Descrição": "Perfuradora papel para espiral"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 8.97,
+        "Descrição": "Pincel quadro branco , magnético"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "TECMIX DISTRIBUIDORA DE ARTIGOS DE ESCRITORIO E DE PAPE",
+        "CNPJ": "34888440000149",
+        "Valor Recebido": 6.12,
+        "Descrição": "Pincel quadro branco , magnético"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "TECMIX DISTRIBUIDORA DE ARTIGOS DE ESCRITORIO E DE PAPE",
+        "CNPJ": "34888440000149",
+        "Valor Recebido": 19.25,
+        "Descrição": "Pincel quadro branco , magnético"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "TECMIX DISTRIBUIDORA DE ARTIGOS DE ESCRITORIO E DE PAPE",
+        "CNPJ": "34888440000149",
+        "Valor Recebido": 19.25,
+        "Descrição": "Pincel quadro branco , magnético"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "TECMIX DISTRIBUIDORA DE ARTIGOS DE ESCRITORIO E DE PAPE",
+        "CNPJ": "34888440000149",
+        "Valor Recebido": 19.35,
+        "Descrição": "Pincel quadro branco , magnético"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "ZENITE COMERCIO E SUPRIMENTOS DE INFORMATICA UNIPESSOAL",
+        "CNPJ": "42933602000141",
+        "Valor Recebido": 314.1,
+        "Descrição": "Bloco recado"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "NEGOCIOSINVEST IND COM E SERV LTDA",
+        "CNPJ": "42866736000197",
+        "Valor Recebido": 150.0,
+        "Descrição": "Bloco recado"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 33.5,
+        "Descrição": "Refil"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 250.0,
+        "Descrição": "Tesoura costura"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "HEITOR VALDEVINO DA SILVA 09855644905",
+        "CNPJ": "42731358000134",
+        "Valor Recebido": 15.0,
+        "Descrição": "Molha-dedos"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 37.99,
+        "Descrição": "Espanador"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "ANTONIO DIONES SANTOS DA SILVA 00093265379",
+        "CNPJ": "23116082000130",
+        "Valor Recebido": 144.99,
+        "Descrição": "Carregador bateria telefone celular"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "ZENITE COMERCIO E SUPRIMENTOS DE INFORMATICA UNIPESSOAL",
+        "CNPJ": "42933602000141",
+        "Valor Recebido": 120.6,
+        "Descrição": "Pilha"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "TECMIX DISTRIBUIDORA DE ARTIGOS DE ESCRITORIO E DE PAPE",
+        "CNPJ": "34888440000149",
+        "Valor Recebido": 37.2,
+        "Descrição": "Clipe"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "TECMIX DISTRIBUIDORA DE ARTIGOS DE ESCRITORIO E DE PAPE",
+        "CNPJ": "34888440000149",
+        "Valor Recebido": 8.95,
+        "Descrição": "Clipe"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "TECMIX DISTRIBUIDORA DE ARTIGOS DE ESCRITORIO E DE PAPE",
+        "CNPJ": "34888440000149",
+        "Valor Recebido": 21.5,
+        "Descrição": "Clipe"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "TECMIX DISTRIBUIDORA DE ARTIGOS DE ESCRITORIO E DE PAPE",
+        "CNPJ": "34888440000149",
+        "Valor Recebido": 24.3,
+        "Descrição": "Clipe"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "TECMIX DISTRIBUIDORA DE ARTIGOS DE ESCRITORIO E DE PAPE",
+        "CNPJ": "34888440000149",
+        "Valor Recebido": 29.3,
+        "Descrição": "Clipe"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 654.0,
+        "Descrição": "Sacola de material esportivo"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 1197.0,
+        "Descrição": "Sacola de material esportivo"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 1587.0,
+        "Descrição": "Sacola de material esportivo"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 25.95,
+        "Descrição": "Fita metálica"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 25.95,
+        "Descrição": "Fita metrica de artifice"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 25.95,
+        "Descrição": "Fita metrica de artifice"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 25.95,
+        "Descrição": "Fita metrica de artifice"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 25.95,
+        "Descrição": "Fita metrica de artifice"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 25.95,
+        "Descrição": "Fita metrica de artifice"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 25.95,
+        "Descrição": "Fita metrica de artifice"
+    },
+    {
+        "Código": "00394684000153-1-000004/2021",
+        "Empresa Contratada": "J&V COMUNICACAO EIRELI",
+        "CNPJ": "31095478000176",
+        "Valor Recebido": 376.04,
+        "Descrição": "Organizador"
+    },
+    {
+        "Código": "00394502000144-1-000049/2021",
+        "Empresa Contratada": "LICITAR BRASILIA SERVICOS E COMERCIO EIRELI",
+        "CNPJ": "37134432000103",
+        "Valor Recebido": 45000.0,
+        "Descrição": "Barco alumínio"
+    },
+    {
+        "Código": "37115383000153-1-000007/2021",
+        "Empresa Contratada": "SILVIO APARECIDO DE MEDEIROS ELETRONICOS",
+        "CNPJ": "13728507000108",
+        "Valor Recebido": 2079.6,
+        "Descrição": "Iluminador para filmagem"
+    },
+    {
+        "Código": "00394452054700-1-000001/2021",
+        "Empresa Contratada": "J A - ASSISTENCIA TECNICA EM EQUIPAMENTOS MEDICO-ODONTOLOGICOS LTDA",
+        "CNPJ": "01371628000166",
+        "Valor Recebido": 3180.0,
+        "Descrição": "Instalação , manutenção , reparo - equipamento laboratório"
+    },
+    {
+        "Código": "00394452000103-1-000429/2021",
+        "Empresa Contratada": "AX COMERCIO DE EQUIPAMENTOS DE COMUNICACAO E SERVICOS L",
+        "CNPJ": "20688216000107",
+        "Valor Recebido": 20193.14,
+        "Descrição": "Grade proteção"
+    },
+    {
+        "Código": "37115383000153-1-000008/2021",
+        "Empresa Contratada": "HBL CARIMBOS E PLACAS INDUSTRIA E COMERCIO LTDA",
+        "CNPJ": "72649361000174",
+        "Valor Recebido": 2700.0,
+        "Descrição": "Carimbo"
+    },
+    {
+        "Código": "00394684000153-1-000005/2021",
+        "Empresa Contratada": "ADEMIR JUNIO MOREIRA SILVA 86500511115",
+        "CNPJ": "42887886000187",
+        "Valor Recebido": 296.0,
+        "Descrição": "Parafusadeira"
+    },
+    {
+        "Código": "00394452000103-1-000453/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 8999.99,
+        "Descrição": "Flor artificial"
+    },
+    {
+        "Código": "00394452000103-1-000466/2021",
+        "Empresa Contratada": "ALFA TELECOM COMERCIO E SERVICO DE TECNOLOGIA EM REDE L",
+        "CNPJ": "31837899000125",
+        "Valor Recebido": 21299.99,
+        "Descrição": "Serviços de manutenção e reparação de computadores e seus periféricos"
+    },
+    {
+        "Código": "00394452054700-1-000002/2021",
+        "Empresa Contratada": "L A DALLA PORTA JUNIOR LTDA",
+        "CNPJ": "11145401000156",
+        "Valor Recebido": 220.0,
+        "Descrição": "Vitaminas do complexo b"
+    },
+    {
+        "Código": "00394452054700-1-000002/2021",
+        "Empresa Contratada": "L A DALLA PORTA JUNIOR LTDA",
+        "CNPJ": "11145401000156",
+        "Valor Recebido": 330.0,
+        "Descrição": "Ibuprofeno"
+    },
+    {
+        "Código": "00394452054700-1-000002/2021",
+        "Empresa Contratada": "L A DALLA PORTA JUNIOR LTDA",
+        "CNPJ": "11145401000156",
+        "Valor Recebido": 112.0,
+        "Descrição": "Luva para procedimento não cirúrgico"
+    },
+    {
+        "Código": "00394452054700-1-000002/2021",
+        "Empresa Contratada": "L A DALLA PORTA JUNIOR LTDA",
+        "CNPJ": "11145401000156",
+        "Valor Recebido": 112.0,
+        "Descrição": "Luva para procedimento não cirúrgico"
+    },
+    {
+        "Código": "00394452054700-1-000002/2021",
+        "Empresa Contratada": "L A DALLA PORTA JUNIOR LTDA",
+        "CNPJ": "11145401000156",
+        "Valor Recebido": 46.0,
+        "Descrição": "Fixador radiológico"
+    },
+    {
+        "Código": "00394452054700-1-000002/2021",
+        "Empresa Contratada": "L A DALLA PORTA JUNIOR LTDA",
+        "CNPJ": "11145401000156",
+        "Valor Recebido": 218.0,
+        "Descrição": "Isolante - uso odontológico"
+    },
+    {
+        "Código": "00394452054700-1-000002/2021",
+        "Empresa Contratada": "L A DALLA PORTA JUNIOR LTDA",
+        "CNPJ": "11145401000156",
+        "Valor Recebido": 239.7,
+        "Descrição": "Diclofenaco"
+    },
+    {
+        "Código": "00394452054700-1-000002/2021",
+        "Empresa Contratada": "L A DALLA PORTA JUNIOR LTDA",
+        "CNPJ": "11145401000156",
+        "Valor Recebido": 733.95,
+        "Descrição": "Escova dental"
+    },
+    {
+        "Código": "00394452054700-1-000002/2021",
+        "Empresa Contratada": "L A DALLA PORTA JUNIOR LTDA",
+        "CNPJ": "11145401000156",
+        "Valor Recebido": 1071.0,
+        "Descrição": "Dentifrício"
+    },
+    {
+        "Código": "00394452054700-1-000002/2021",
+        "Empresa Contratada": "L A DALLA PORTA JUNIOR LTDA",
+        "CNPJ": "11145401000156",
+        "Valor Recebido": 1564.5,
+        "Descrição": "Fio dental"
+    },
+    {
+        "Código": "00394452054700-1-000002/2021",
+        "Empresa Contratada": "L A DALLA PORTA JUNIOR LTDA",
+        "CNPJ": "11145401000156",
+        "Valor Recebido": 2600.0,
+        "Descrição": "Bicarbonato de sódio"
+    },
+    {
+        "Código": "00394452054700-1-000002/2021",
+        "Empresa Contratada": "L A DALLA PORTA JUNIOR LTDA",
+        "CNPJ": "11145401000156",
+        "Valor Recebido": 310.0,
+        "Descrição": "Bolsa térmica"
+    },
+    {
+        "Código": "00394452054700-1-000002/2021",
+        "Empresa Contratada": "L A DALLA PORTA JUNIOR LTDA",
+        "CNPJ": "11145401000156",
+        "Valor Recebido": 490.0,
+        "Descrição": "Aminoácidos"
+    },
+    {
+        "Código": "00394452054700-1-000002/2021",
+        "Empresa Contratada": "L A DALLA PORTA JUNIOR LTDA",
+        "CNPJ": "11145401000156",
+        "Valor Recebido": 620.0,
+        "Descrição": "Meloxicam"
+    },
+    {
+        "Código": "00394452054700-1-000002/2021",
+        "Empresa Contratada": "L A DALLA PORTA JUNIOR LTDA",
+        "CNPJ": "11145401000156",
+        "Valor Recebido": 1194.0,
+        "Descrição": "Ácido acetilsalicílico"
+    },
+    {
+        "Código": "00394452000103-1-000485/2021",
+        "Empresa Contratada": "ORION COMERCIO VAREJISTA DE VIDROS E MOLDURAS EIRELI",
+        "CNPJ": "29306159000110",
+        "Valor Recebido": 750.0,
+        "Descrição": "Montagem , restauração - fotografia"
+    },
+    {
+        "Código": "00394452000103-1-000485/2021",
+        "Empresa Contratada": "LUIZ CLAUDIO MACEDO DE MATOS 03031852109",
+        "CNPJ": "41175664000179",
+        "Valor Recebido": 1200.0,
+        "Descrição": "Higienização de artigos de tecido,couro,estofamento"
+    },
+    {
+        "Código": "00394452000103-1-000485/2021",
+        "Empresa Contratada": "LUIZ CLAUDIO MACEDO DE MATOS 03031852109",
+        "CNPJ": "41175664000179",
+        "Valor Recebido": 590.0,
+        "Descrição": "Higienização de artigos de tecido,couro,estofamento"
+    },
+    {
+        "Código": "00394452000103-1-000485/2021",
+        "Empresa Contratada": "LUIZ CLAUDIO MACEDO DE MATOS 03031852109",
+        "CNPJ": "41175664000179",
+        "Valor Recebido": 400.0,
+        "Descrição": "Higienização de artigos de tecido,couro,estofamento"
+    },
+    {
+        "Código": "00394452000103-1-000485/2021",
+        "Empresa Contratada": "LUIZ CLAUDIO MACEDO DE MATOS 03031852109",
+        "CNPJ": "41175664000179",
+        "Valor Recebido": 300.0,
+        "Descrição": "Higienização de artigos de tecido,couro,estofamento"
+    },
+    {
+        "Código": "00394452000103-1-000485/2021",
+        "Empresa Contratada": "JCG LOG EIRELI",
+        "CNPJ": "41481191000138",
+        "Valor Recebido": 6500.0,
+        "Descrição": "Confecção de placas ,  quadros ,  distintivos , artefatos deacrílico , metal , laminado , pvc"
+    },
+    {
+        "Código": "00394452000103-1-000485/2021",
+        "Empresa Contratada": "P & B SISTEMAS DE SEGURANCA EIRELI",
+        "CNPJ": "09140225000118",
+        "Valor Recebido": 2998.6,
+        "Descrição": "Manutenção extintores , mangueiras - combate incêndio"
+    },
+    {
+        "Código": "00394452000103-1-000485/2021",
+        "Empresa Contratada": "P & B SISTEMAS DE SEGURANCA EIRELI",
+        "CNPJ": "09140225000118",
+        "Valor Recebido": 1399.6,
+        "Descrição": "Manutenção extintores , mangueiras - combate incêndio"
+    },
+    {
+        "Código": "00394452000103-1-000485/2021",
+        "Empresa Contratada": "JCG LOG EIRELI",
+        "CNPJ": "41481191000138",
+        "Valor Recebido": 970.0,
+        "Descrição": "Gráfico - formulários planos"
+    },
+    {
+        "Código": "00394452000103-1-000486/2021",
+        "Empresa Contratada": "BANDEIRAS ON LINE ARTEFATOS TEXTEIS LTDA",
+        "CNPJ": "00295234000103",
+        "Valor Recebido": 440.0,
+        "Descrição": "Bandeira institucional"
+    },
+    {
+        "Código": "00394452000103-1-000486/2021",
+        "Empresa Contratada": "BANDEIRAS ON LINE ARTEFATOS TEXTEIS LTDA",
+        "CNPJ": "00295234000103",
+        "Valor Recebido": 230.0,
+        "Descrição": "Bandeira em geral"
+    },
+    {
+        "Código": "00105650000100-1-000001/2021",
+        "Empresa Contratada": "CAMPANULA TECNOLOGIA LTDA",
+        "CNPJ": "35688983000185",
+        "Valor Recebido": 39450.0,
+        "Descrição": "Manutenção , reforma predial"
+    },
+    {
+        "Código": "00394452000103-1-000516/2021",
+        "Empresa Contratada": "LARISSA DONATO GONCALVES DIAS 12119892679",
+        "CNPJ": "35167994000110",
+        "Valor Recebido": 286.0,
+        "Descrição": "Bandeja de aço"
+    },
+    {
+        "Código": "00394452000103-1-000516/2021",
+        "Empresa Contratada": "JAQUELINE BRAGA DAMASCENO 03109727366",
+        "CNPJ": "23564171000149",
+        "Valor Recebido": 95.3,
+        "Descrição": "Pegador alimento"
+    },
+    {
+        "Código": "00394452000103-1-000516/2021",
+        "Empresa Contratada": "DIEGO VIANA DA SILVA 35845555825",
+        "CNPJ": "33662823000131",
+        "Valor Recebido": 269.97,
+        "Descrição": "Conector áudio-vídeo"
+    },
+    {
+        "Código": "00394452000103-1-000516/2021",
+        "Empresa Contratada": "DIEGO VIANA DA SILVA 35845555825",
+        "CNPJ": "33662823000131",
+        "Valor Recebido": 599.8,
+        "Descrição": "Calculadora eletrônica"
+    },
+    {
+        "Código": "00394452000103-1-000516/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 232.0,
+        "Descrição": "Guilhotina"
+    },
+    {
+        "Código": "00394452000103-1-000516/2021",
+        "Empresa Contratada": "ADONAI COMERCIO DE MAQUINAS E EQUIPAMENTOS EIRELI",
+        "CNPJ": "17356181000196",
+        "Valor Recebido": 809.42,
+        "Descrição": "Carrinho transporte"
+    },
+    {
+        "Código": "00394452000103-1-000516/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 118.0,
+        "Descrição": "Campainha manual"
+    },
+    {
+        "Código": "00394452000103-1-000516/2021",
+        "Empresa Contratada": "CASA VAREJAO ARTIGOS DESPORTIVOS LTDA",
+        "CNPJ": "33101460000165",
+        "Valor Recebido": 2500.0,
+        "Descrição": "Bandeira em geral"
+    },
+    {
+        "Código": "00394452000103-1-000516/2021",
+        "Empresa Contratada": "MULT BOOKS LTDA",
+        "CNPJ": "02117769000110",
+        "Valor Recebido": 1155.0,
+        "Descrição": "\"livro\""
+    },
+    {
+        "Código": "00394452000103-1-000516/2021",
+        "Empresa Contratada": "JCG LOG EIRELI",
+        "CNPJ": "41481191000138",
+        "Valor Recebido": 229.95,
+        "Descrição": "Álbum"
+    },
+    {
+        "Código": "00394452000103-1-000516/2021",
+        "Empresa Contratada": "JCG LOG EIRELI",
+        "CNPJ": "41481191000138",
+        "Valor Recebido": 246.29,
+        "Descrição": "\"livro\""
+    },
+    {
+        "Código": "00394452000103-1-000516/2021",
+        "Empresa Contratada": "MULT BOOKS LTDA",
+        "CNPJ": "02117769000110",
+        "Valor Recebido": 190.0,
+        "Descrição": "\"livro\""
+    },
+    {
+        "Código": "00394452000103-1-000516/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 155.0,
+        "Descrição": "Placa captura vídeo"
+    },
+    {
+        "Código": "00394452000103-1-000516/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 237.0,
+        "Descrição": "Filmadora portátil"
+    },
+    {
+        "Código": "00394452000103-1-000516/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 262.0,
+        "Descrição": "Base para carimbo"
+    },
+    {
+        "Código": "00394452000103-1-000516/2021",
+        "Empresa Contratada": "JAQUELINE BRAGA DAMASCENO 03109727366",
+        "CNPJ": "23564171000149",
+        "Valor Recebido": 189.99,
+        "Descrição": "Conector áudio-vídeo"
+    },
+    {
+        "Código": "00394452000103-1-000516/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 39.0,
+        "Descrição": "Conector áudio-vídeo"
+    },
+    {
+        "Código": "00394452000103-1-000518/2021",
+        "Empresa Contratada": "CONFIDENCE SISTEMAS DE SEGURANCA EIRELI",
+        "CNPJ": "08473776000130",
+        "Valor Recebido": 12899.99,
+        "Descrição": "Serviço de rastreamento"
+    },
+    {
+        "Código": "00394452000103-1-000519/2021",
+        "Empresa Contratada": "JCG LOG EIRELI",
+        "CNPJ": "41481191000138",
+        "Valor Recebido": 11498.88,
+        "Descrição": "Painel expositor"
+    },
+    {
+        "Código": "00394536000139-1-000002/2021",
+        "Empresa Contratada": "GMO SOLUCOES COMERCIAIS EIRELI",
+        "CNPJ": "13505280000131",
+        "Valor Recebido": 16800.0,
+        "Descrição": "Aparelho ar condicionado"
+    },
+    {
+        "Código": "08829974000194-1-000006/2021",
+        "Empresa Contratada": "DIVISAO SERVICOS - MANUTENCAO E REPARO DE MAQUINAS MOTR",
+        "CNPJ": "21577962000340",
+        "Valor Recebido": 45173.34,
+        "Descrição": "Lancha a motor"
+    },
+    {
+        "Código": "08829974000194-1-000006/2021",
+        "Empresa Contratada": "DIVISAO SERVICOS - MANUTENCAO E REPARO DE MAQUINAS MOTR",
+        "CNPJ": "21577962000340",
+        "Valor Recebido": 2972.4,
+        "Descrição": "Lancha a motor"
+    },
+    {
+        "Código": "08829974000194-1-000006/2021",
+        "Empresa Contratada": "DIVISAO SERVICOS - MANUTENCAO E REPARO DE MAQUINAS MOTR",
+        "CNPJ": "21577962000340",
+        "Valor Recebido": 600.0,
+        "Descrição": "Lancha a motor"
+    },
+    {
+        "Código": "00394502000144-1-000079/2021",
+        "Empresa Contratada": "MIGUEL HERNANDEZ INDUSTRIA, COMERCIO DE EQUIPAMENTOS DE",
+        "CNPJ": "32216668000167",
+        "Valor Recebido": 31490.0,
+        "Descrição": "Medalha"
+    },
+    {
+        "Código": "00394502000144-1-000079/2021",
+        "Empresa Contratada": "FORMALTA INDUSTRIA E COMERCIO DE ARTIGOS MILITARES EIRE",
+        "CNPJ": "02514575000158",
+        "Valor Recebido": 2040.0,
+        "Descrição": "Medalha"
+    },
+    {
+        "Código": "00394452000103-1-000577/2021",
+        "Empresa Contratada": "ENGEMAP ENGENHARIA, MAPEAMENTO E AEROLEVANTAMENTO LTDA",
+        "CNPJ": "01020691000310",
+        "Valor Recebido": 38100.0,
+        "Descrição": "Topografia de áreas"
+    },
+    {
+        "Código": "33583550000130-1-000003/2021",
+        "Empresa Contratada": "WESLEY RAPHAEL SOUZA DA PURIFICACAO 00600382176",
+        "CNPJ": "41643531000180",
+        "Valor Recebido": 526.2,
+        "Descrição": "Água coco"
+    },
+    {
+        "Código": "00394452000103-1-000584/2021",
+        "Empresa Contratada": "ORION COMERCIO VAREJISTA DE VIDROS E MOLDURAS EIRELI",
+        "CNPJ": "29306159000110",
+        "Valor Recebido": 10980.0,
+        "Descrição": "Armário estante"
+    },
+    {
+        "Código": "00394452000103-1-000613/2021",
+        "Empresa Contratada": "KANARO ARTIGOS DE CAMA, MESA E BANHO EIRELI",
+        "CNPJ": "02812282000157",
+        "Valor Recebido": 900.0,
+        "Descrição": "Conjunto roupa de cama"
+    },
+    {
+        "Código": "00394452000103-1-000613/2021",
+        "Empresa Contratada": "OMEGA PRODUTOS E SERVICOS EIRELI",
+        "CNPJ": "31354105000172",
+        "Valor Recebido": 1499.99,
+        "Descrição": "Conjunto roupa de cama"
+    },
+    {
+        "Código": "86900545000170-1-000001/2021",
+        "Empresa Contratada": "HR COMERCIO E SERVICOS EIRELI",
+        "CNPJ": "29106687000126",
+        "Valor Recebido": 5980.0,
+        "Descrição": "Sistema contínuo tinta impressora , copiadora"
+    },
+    {
+        "Código": "86900545000170-1-000001/2021",
+        "Empresa Contratada": "HR COMERCIO E SERVICOS EIRELI",
+        "CNPJ": "29106687000126",
+        "Valor Recebido": 5980.0,
+        "Descrição": "Sistema contínuo tinta impressora , copiadora"
+    },
+    {
+        "Código": "86900545000170-1-000001/2021",
+        "Empresa Contratada": "HR COMERCIO E SERVICOS EIRELI",
+        "CNPJ": "29106687000126",
+        "Valor Recebido": 5980.0,
+        "Descrição": "Sistema contínuo tinta impressora , copiadora"
+    },
+    {
+        "Código": "86900545000170-1-000001/2021",
+        "Empresa Contratada": "HR COMERCIO E SERVICOS EIRELI",
+        "CNPJ": "29106687000126",
+        "Valor Recebido": 5980.0,
+        "Descrição": "Sistema contínuo tinta impressora , copiadora"
+    },
+    {
+        "Código": "86900545000170-1-000001/2021",
+        "Empresa Contratada": "ASA COMERCIO E DISTRIBUIDOR DE PRODUTOS DE INFORMATICA",
+        "CNPJ": "34910336000103",
+        "Valor Recebido": 3990.0,
+        "Descrição": "Sistema contínuo tinta impressora , copiadora"
+    },
+    {
+        "Código": "26989715000102-1-000001/2021",
+        "Empresa Contratada": "DNA COMERCIO DE MATERIAIS EIRELI",
+        "CNPJ": "34347593000189",
+        "Valor Recebido": 7156.0,
+        "Descrição": "Módulo eletrônico"
+    },
+    {
+        "Código": "26989715000102-1-000001/2021",
+        "Empresa Contratada": "DNA COMERCIO DE MATERIAIS EIRELI",
+        "CNPJ": "34347593000189",
+        "Valor Recebido": 7974.0,
+        "Descrição": "Módulo eletrônico"
+    },
+    {
+        "Código": "37115383000153-1-000009/2021",
+        "Empresa Contratada": "LAVANDERIA CRISTAL SERVICOS EXPRESSOS EIRELI",
+        "CNPJ": "01319181000186",
+        "Valor Recebido": 7360.22,
+        "Descrição": "Prestação de serviços de lavanderia"
+    },
+    {
+        "Código": "00348003000110-1-000095/2021",
+        "Empresa Contratada": "REY-GLASS COMERCIAL E SERVICOS EIRELI",
+        "CNPJ": "04345762000180",
+        "Valor Recebido": 2147.88,
+        "Descrição": "Suplemento para meio de cultura"
+    },
+    {
+        "Código": "00348003000110-1-000095/2021",
+        "Empresa Contratada": "TEC IMPORT EXPORTACAO,IMPORTACAO E COMERCIO LTDA.",
+        "CNPJ": "62060678000117",
+        "Valor Recebido": 3111.0,
+        "Descrição": "6(y,y-dimetilalilamino)purina"
+    },
+    {
+        "Código": "00348003000110-1-000095/2021",
+        "Empresa Contratada": "PROLAB COMERCIO DE PRODUTOS PARA LABORATORIOS LTDA",
+        "CNPJ": "93378735000134",
+        "Valor Recebido": 1103.5,
+        "Descrição": "Nitrato de amônio"
+    },
+    {
+        "Código": "03589068000146-1-000001/2021",
+        "Empresa Contratada": "J C S FILHO COMERCIO DE EQUIPAMENTOS INDUSTRIAIS EIRELI",
+        "CNPJ": "31300461000103",
+        "Valor Recebido": 1250.0,
+        "Descrição": "Câmera videoconferência"
+    },
+    {
+        "Código": "00394452000103-1-000709/2021",
+        "Empresa Contratada": "A J SILVA GUSMAO EIRELI",
+        "CNPJ": "36902042000165",
+        "Valor Recebido": 18500.0,
+        "Descrição": "Obras civis - pequenas obras , pintura em geral"
+    },
+    {
+        "Código": "00394452000103-1-000719/2021",
+        "Empresa Contratada": "DINAMICA DISTRIBUIDORA E COMERCIO VAREJISTA DE ELETRODO",
+        "CNPJ": "37544176000114",
+        "Valor Recebido": 69.1,
+        "Descrição": "Conexão hidráulica"
+    },
+    {
+        "Código": "00394452000103-1-000719/2021",
+        "Empresa Contratada": "CIANO PRESENTES EIRELI",
+        "CNPJ": "29657759000123",
+        "Valor Recebido": 434.7,
+        "Descrição": "Lâmpada led"
+    },
+    {
+        "Código": "00394452000103-1-000719/2021",
+        "Empresa Contratada": "DINAMICA DISTRIBUIDORA E COMERCIO VAREJISTA DE ELETRODO",
+        "CNPJ": "37544176000114",
+        "Valor Recebido": 499.25,
+        "Descrição": "Reparo válvula hidráulica"
+    },
+    {
+        "Código": "00394452000103-1-000719/2021",
+        "Empresa Contratada": "NAUIRES ANTONIO DOS SANTOS",
+        "CNPJ": "28806187000134",
+        "Valor Recebido": 449.5,
+        "Descrição": "Tomada"
+    },
+    {
+        "Código": "00394452000103-1-000719/2021",
+        "Empresa Contratada": "DINAMICA DISTRIBUIDORA E COMERCIO VAREJISTA DE ELETRODO",
+        "CNPJ": "37544176000114",
+        "Valor Recebido": 59.1,
+        "Descrição": "Conexão hidráulica"
+    },
+    {
+        "Código": "00394452000103-1-000720/2021",
+        "Empresa Contratada": "HUGO BRANDAO LIGORIO ALVES 16702510713",
+        "CNPJ": "17469464000144",
+        "Valor Recebido": 4000.0,
+        "Descrição": "Uniforme masculino"
+    },
+    {
+        "Código": "00394452000103-1-000720/2021",
+        "Empresa Contratada": "HUGO BRANDAO LIGORIO ALVES 16702510713",
+        "CNPJ": "17469464000144",
+        "Valor Recebido": 900.0,
+        "Descrição": "Uniforme masculino"
+    },
+    {
+        "Código": "00394452000103-1-000720/2021",
+        "Empresa Contratada": "HUGO BRANDAO LIGORIO ALVES 16702510713",
+        "CNPJ": "17469464000144",
+        "Valor Recebido": 1900.0,
+        "Descrição": "Uniforme masculino"
+    },
+    {
+        "Código": "00394452000103-1-000720/2021",
+        "Empresa Contratada": "HUGO BRANDAO LIGORIO ALVES 16702510713",
+        "CNPJ": "17469464000144",
+        "Valor Recebido": 1400.0,
+        "Descrição": "Uniforme masculino"
+    },
+    {
+        "Código": "00394452000103-1-000720/2021",
+        "Empresa Contratada": "MIRACY ALVES DE FARIA RODRIGUES",
+        "CNPJ": "32716419000130",
+        "Valor Recebido": 900.0,
+        "Descrição": "Uniforme masculino"
+    },
+    {
+        "Código": "00394452000103-1-000720/2021",
+        "Empresa Contratada": "CONFECCOES BACELAR LTDA",
+        "CNPJ": "18977285000180",
+        "Valor Recebido": 440.0,
+        "Descrição": "Uniforme masculino"
+    },
+    {
+        "Código": "00394452000103-1-000744/2021",
+        "Empresa Contratada": "MHL MANUTENCAO ELETRICA PREDIAL LTDA",
+        "CNPJ": "11758334000145",
+        "Valor Recebido": 10500.0,
+        "Descrição": "Cabo elétrico isolado"
+    },
+    {
+        "Código": "00394452000103-1-000744/2021",
+        "Empresa Contratada": "MHL MANUTENCAO ELETRICA PREDIAL LTDA",
+        "CNPJ": "11758334000145",
+        "Valor Recebido": 4850.0,
+        "Descrição": "Instalação , manutenção elétrica - predial, industrial"
+    },
+    {
+        "Código": "00394452000103-1-000745/2021",
+        "Empresa Contratada": "AMBIENTE LIVRE ASSESSORIA EM SISTEMAS DE INFORMATICA LT",
+        "CNPJ": "06290671000110",
+        "Valor Recebido": 14960.0,
+        "Descrição": "Treinamento - instalação , utilização equipamento"
+    },
+    {
+        "Código": "00394494000136-1-000023/2021",
+        "Empresa Contratada": "SANOS MED GESTAO EM SAUDE LTDA",
+        "CNPJ": "37743090000110",
+        "Valor Recebido": 47500.0,
+        "Descrição": "Assistência médica - hospitalar , domiciliar complementar desaúde , convênio"
+    },
+    {
+        "Código": "33787094000140-1-000011/2021",
+        "Empresa Contratada": "ELIANDRO JOSE MACHADO COMERCIO E SERVICOS",
+        "CNPJ": "13395341000155",
+        "Valor Recebido": 3010.96,
+        "Descrição": "Máscara multiuso"
+    },
+    {
+        "Código": "33787094000140-1-000011/2021",
+        "Empresa Contratada": "JCG LOG EIRELI",
+        "CNPJ": "41481191000138",
+        "Valor Recebido": 898.54,
+        "Descrição": "Protetor facial"
+    },
+    {
+        "Código": "33787094000140-1-000011/2021",
+        "Empresa Contratada": "JERSON THIAGO VELOSO EIRELI",
+        "CNPJ": "31760900000160",
+        "Valor Recebido": 2342.64,
+        "Descrição": "Álcool etílico limpeza de ambientes"
+    },
+    {
+        "Código": "00394452000103-1-000771/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 3191.92,
+        "Descrição": "Planta ornamental"
+    },
+    {
+        "Código": "34061135000189-1-000001/2021",
+        "Empresa Contratada": "YES WAY COMERCIO E SERVICOS DE SOLUCOES AVANCADAS DE INFORMATICA LTDA",
+        "CNPJ": "02445986000139",
+        "Valor Recebido": 40604.0,
+        "Descrição": "Serviços de garantia de equipamentos de tic"
+    },
+    {
+        "Código": "26474056000171-1-000012/2021",
+        "Empresa Contratada": "HD SOLUCOES TECNOLOGICAS LTDA",
+        "CNPJ": "39378032000160",
+        "Valor Recebido": 4950.0,
+        "Descrição": "Teleconferência , videoconferência"
+    },
+    {
+        "Código": "00394429000100-1-000052/2021",
+        "Empresa Contratada": "EDITORA NEGOCIOS PUBLICOS DO BRASIL LTDA",
+        "CNPJ": "06132270000132",
+        "Valor Recebido": 6657.95,
+        "Descrição": "Assinatura obras oficiais - livro , revista"
+    },
+    {
+        "Código": "00394684000153-1-000011/2021",
+        "Empresa Contratada": "OLIVER COZINHA E COMERCIO DE ALIMENTOS LTDA",
+        "CNPJ": "37910982000169",
+        "Valor Recebido": 700.0,
+        "Descrição": "Gelo"
+    },
+    {
+        "Código": "33583550000130-1-000004/2021",
+        "Empresa Contratada": "MIGUEL ALVES DE LIMA 45988885802",
+        "CNPJ": "42507136000132",
+        "Valor Recebido": 2350.0,
+        "Descrição": "Placa homenagem"
+    },
+    {
+        "Código": "33583550000130-1-000004/2021",
+        "Empresa Contratada": "MARCIO SANDRO MALLET PEZARIM",
+        "CNPJ": "04743532000170",
+        "Valor Recebido": 4000.0,
+        "Descrição": "Botom"
+    },
+    {
+        "Código": "33583550000130-1-000004/2021",
+        "Empresa Contratada": "SMART PROMOCOES E EVENTOS LTDA",
+        "CNPJ": "10201909000161",
+        "Valor Recebido": 2000.0,
+        "Descrição": "Locução de texto , mestre de cerimônia , locutor ,  apresen-tador"
+    },
+    {
+        "Código": "33583550000130-1-000004/2021",
+        "Empresa Contratada": "SMART PROMOCOES E EVENTOS LTDA",
+        "CNPJ": "10201909000161",
+        "Valor Recebido": 2450.0,
+        "Descrição": "Revelação de filme fotográfico , ampliação de fotografia"
+    },
+    {
+        "Código": "33583550000130-1-000004/2021",
+        "Empresa Contratada": "SMART PROMOCOES E EVENTOS LTDA",
+        "CNPJ": "10201909000161",
+        "Valor Recebido": 3550.0,
+        "Descrição": "Prestação de serviços de garagista , manobrista"
+    },
+    {
+        "Código": "33583550000130-1-000004/2021",
+        "Empresa Contratada": "MARCIA REGINA MOREIRA DA SILVA MILITAO 01456382608",
+        "CNPJ": "13359223000191",
+        "Valor Recebido": 11844.0,
+        "Descrição": "Buffet"
+    },
+    {
+        "Código": "00394684000153-1-000012/2021",
+        "Empresa Contratada": "REISMED COMERCIO DE PRODUTOS HOSPITALARES LTDA",
+        "CNPJ": "40673263000186",
+        "Valor Recebido": 1498.56,
+        "Descrição": "Componente respirador segurança"
+    },
+    {
+        "Código": "26989350000116-1-000006/2021",
+        "Empresa Contratada": "FRANCIELLY VERISSIMO CARNEIRO BORGES 10502082690",
+        "CNPJ": "42268039000134",
+        "Valor Recebido": 117.0,
+        "Descrição": "Apontador lápis"
+    },
+    {
+        "Código": "26989350000116-1-000006/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 400.0,
+        "Descrição": "Fita adesiva embalagem"
+    },
+    {
+        "Código": "26989350000116-1-000006/2021",
+        "Empresa Contratada": "FRANCIELLY VERISSIMO CARNEIRO BORGES 10502082690",
+        "CNPJ": "42268039000134",
+        "Valor Recebido": 290.4,
+        "Descrição": "Lapiseira"
+    },
+    {
+        "Código": "26989350000116-1-000006/2021",
+        "Empresa Contratada": "JTH COMERCIO LTDA",
+        "CNPJ": "30680100000177",
+        "Valor Recebido": 6276.0,
+        "Descrição": "Máscara cirúrgica"
+    },
+    {
+        "Código": "26989350000116-1-000006/2021",
+        "Empresa Contratada": "TATIANA COSTA DO NASCIMENTO SILVA 29527395879",
+        "CNPJ": "38559683000194",
+        "Valor Recebido": 3848.0,
+        "Descrição": "Memória flash"
+    },
+    {
+        "Código": "26989350000116-1-000006/2021",
+        "Empresa Contratada": "ADEMILTON JOSE DA SILVA 43669574859",
+        "CNPJ": "40164060000164",
+        "Valor Recebido": 995.0,
+        "Descrição": "Papel para impressão formatado"
+    },
+    {
+        "Código": "26989350000116-1-000006/2021",
+        "Empresa Contratada": "FRANCIELLY VERISSIMO CARNEIRO BORGES 10502082690",
+        "CNPJ": "42268039000134",
+        "Valor Recebido": 90.0,
+        "Descrição": "Tesoura"
+    },
+    {
+        "Código": "00394452000103-1-000820/2021",
+        "Empresa Contratada": "CROSS DISTRIBUIDORA DE BEBIDAS E PAPELARIA LTDA",
+        "CNPJ": "16934475000195",
+        "Valor Recebido": 1680.0,
+        "Descrição": "Quadro branco"
+    },
+    {
+        "Código": "08829974000194-1-000007/2021",
+        "Empresa Contratada": "IVO PESSOA DE SOUZA 87976714368",
+        "CNPJ": "42182830000127",
+        "Valor Recebido": 2150.0,
+        "Descrição": "Freezer"
+    },
+    {
+        "Código": "08829974000194-1-000007/2021",
+        "Empresa Contratada": "IVO PESSOA DE SOUZA 87976714368",
+        "CNPJ": "42182830000127",
+        "Valor Recebido": 6643.5,
+        "Descrição": "Refrigerador doméstico"
+    },
+    {
+        "Código": "10898596000142-1-000006/2021",
+        "Empresa Contratada": "JTH COMERCIO LTDA",
+        "CNPJ": "30680100000177",
+        "Valor Recebido": 2899.65,
+        "Descrição": "Câmera web"
+    },
+    {
+        "Código": "10898596000142-1-000006/2021",
+        "Empresa Contratada": "JTH COMERCIO LTDA",
+        "CNPJ": "30680100000177",
+        "Valor Recebido": 4988.64,
+        "Descrição": "Câmera web"
+    },
+    {
+        "Código": "10898596000142-1-000006/2021",
+        "Empresa Contratada": "JTH COMERCIO LTDA",
+        "CNPJ": "30680100000177",
+        "Valor Recebido": 2839.9,
+        "Descrição": "Câmera web"
+    },
+    {
+        "Código": "00394452000103-1-000838/2021",
+        "Empresa Contratada": "MHL MANUTENCAO ELETRICA PREDIAL LTDA",
+        "CNPJ": "11758334000145",
+        "Valor Recebido": 2100.0,
+        "Descrição": "Cabo elétrico isolado"
+    },
+    {
+        "Código": "00394452000103-1-000838/2021",
+        "Empresa Contratada": "MHL MANUTENCAO ELETRICA PREDIAL LTDA",
+        "CNPJ": "11758334000145",
+        "Valor Recebido": 5670.0,
+        "Descrição": "Cabo elétrico isolado"
+    },
+    {
+        "Código": "00394452000103-1-000838/2021",
+        "Empresa Contratada": "MHL MANUTENCAO ELETRICA PREDIAL LTDA",
+        "CNPJ": "11758334000145",
+        "Valor Recebido": 3000.0,
+        "Descrição": "Instalação , manutenção elétrica - predial, industrial"
+    },
+    {
+        "Código": "00394452000103-1-000840/2021",
+        "Empresa Contratada": "JONATA LUIZ CARVALHO DE SOUZA",
+        "CNPJ": "73917559234",
+        "Valor Recebido": 1.0,
+        "Descrição": "Instalação , manutenção elétrica - predial, industrial"
+    },
+    {
+        "Código": "00394452000103-1-000841/2021",
+        "Empresa Contratada": "JONATA LUIZ CARVALHO DE SOUZA",
+        "CNPJ": "73917559234",
+        "Valor Recebido": 1.0,
+        "Descrição": "Cabo elétrico isolado"
+    },
+    {
+        "Código": "00394452000103-1-000841/2021",
+        "Empresa Contratada": "JONATA LUIZ CARVALHO DE SOUZA",
+        "CNPJ": "73917559234",
+        "Valor Recebido": 1.0,
+        "Descrição": "Instalação , manutenção elétrica - predial, industrial"
+    },
+    {
+        "Código": "00394452000103-1-000842/2021",
+        "Empresa Contratada": "JONATA LUIZ CARVALHO DE SOUZA",
+        "CNPJ": "73917559234",
+        "Valor Recebido": 1.0,
+        "Descrição": "Cabo elétrico isolado"
+    },
+    {
+        "Código": "00394452000103-1-000842/2021",
+        "Empresa Contratada": "JONATA LUIZ CARVALHO DE SOUZA",
+        "CNPJ": "73917559234",
+        "Valor Recebido": 1.0,
+        "Descrição": "Instalação , manutenção elétrica - predial, industrial"
+    },
+    {
+        "Código": "37115375000107-1-000001/2021",
+        "Empresa Contratada": "LS SERVICOS DE INFORMATICA E ELETRONICA LTDA",
+        "CNPJ": "10793812000195",
+        "Valor Recebido": 15543.63,
+        "Descrição": "Equipamento videoconferência"
+    },
+    {
+        "Código": "37115375000107-1-000001/2021",
+        "Empresa Contratada": "COMMERCIAL BUSINESS BRASIL LTDA",
+        "CNPJ": "40269164000133",
+        "Valor Recebido": 162.4,
+        "Descrição": "Tripé"
+    },
+    {
+        "Código": "00394494000136-1-000026/2021",
+        "Empresa Contratada": "RV COMPANY COMERCIO E SERVICO LTDA",
+        "CNPJ": "36495092000175",
+        "Valor Recebido": 10680.0,
+        "Descrição": "Borrifador"
+    },
+    {
+        "Código": "00394494000136-1-000026/2021",
+        "Empresa Contratada": "JTH COMERCIO LTDA",
+        "CNPJ": "30680100000177",
+        "Valor Recebido": 6496.0,
+        "Descrição": "Toalha de papel"
+    },
+    {
+        "Código": "00394494000136-1-000026/2021",
+        "Empresa Contratada": "ADSON MARTINS MAIA 04691061150",
+        "CNPJ": "37262133000146",
+        "Valor Recebido": 11787.99,
+        "Descrição": "Álcool etílico"
+    },
+    {
+        "Código": "00394452000103-1-000848/2021",
+        "Empresa Contratada": "MARCIA MEDIANEIRA DE OLIVEIRA SCHNEIDER",
+        "CNPJ": "04995470000193",
+        "Valor Recebido": 2918.96,
+        "Descrição": "Filtro cartucho"
+    },
+    {
+        "Código": "00394452000103-1-000849/2021",
+        "Empresa Contratada": "GASBALL ARMAZENADORA E DISTRIBUIDORA LTDA",
+        "CNPJ": "02430968000345",
+        "Valor Recebido": 5520.0,
+        "Descrição": "Gás refino de petróleo"
+    },
+    {
+        "Código": "00394536000139-1-000004/2021",
+        "Empresa Contratada": "TECNETWORKING SERVICOS E SOLUCOES EM TI LTDA",
+        "CNPJ": "21748841000151",
+        "Valor Recebido": 5100.0,
+        "Descrição": "Cessão temporária de direitos sobre programas de computador locação de software"
+    },
+    {
+        "Código": "00394452000103-1-000889/2021",
+        "Empresa Contratada": "GREEN HOUSE COMERCIO DE PRODUTOS DE LIMPEZA LTDA",
+        "CNPJ": "21494511000187",
+        "Valor Recebido": 238.88,
+        "Descrição": "Café"
+    },
+    {
+        "Código": "00394452000103-1-000889/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 139.8,
+        "Descrição": "Biscoito"
+    },
+    {
+        "Código": "00394452000103-1-000889/2021",
+        "Empresa Contratada": "CALEVI MINERADORA E COMERCIO LTDA",
+        "CNPJ": "03160007000169",
+        "Valor Recebido": 280.0,
+        "Descrição": "Água mineral natural"
+    },
+    {
+        "Código": "00394452000103-1-000889/2021",
+        "Empresa Contratada": "CALEVI MINERADORA E COMERCIO LTDA",
+        "CNPJ": "03160007000169",
+        "Valor Recebido": 399.0,
+        "Descrição": "Água mineral natural"
+    },
+    {
+        "Código": "00394452000103-1-000889/2021",
+        "Empresa Contratada": "DHEMERSON RODRIGUES DOS SANTOS 04235216163",
+        "CNPJ": "42559170000150",
+        "Valor Recebido": 152.0,
+        "Descrição": "Biscoito"
+    },
+    {
+        "Código": "00394452000103-1-000889/2021",
+        "Empresa Contratada": "DHEMERSON RODRIGUES DOS SANTOS 04235216163",
+        "CNPJ": "42559170000150",
+        "Valor Recebido": 152.0,
+        "Descrição": "Biscoito"
+    },
+    {
+        "Código": "00394452000103-1-000889/2021",
+        "Empresa Contratada": "DHEMERSON RODRIGUES DOS SANTOS 04235216163",
+        "CNPJ": "42559170000150",
+        "Valor Recebido": 152.0,
+        "Descrição": "Biscoito"
+    },
+    {
+        "Código": "00394452000103-1-000889/2021",
+        "Empresa Contratada": "DHEMERSON RODRIGUES DOS SANTOS 04235216163",
+        "CNPJ": "42559170000150",
+        "Valor Recebido": 152.0,
+        "Descrição": "Biscoito"
+    },
+    {
+        "Código": "00394452000103-1-000889/2021",
+        "Empresa Contratada": "GUILHERME DA SILVA DOURADO 02868884164",
+        "CNPJ": "43782095000155",
+        "Valor Recebido": 238.37,
+        "Descrição": "Suco"
+    },
+    {
+        "Código": "00394452000103-1-000889/2021",
+        "Empresa Contratada": "GUILHERME DA SILVA DOURADO 02868884164",
+        "CNPJ": "43782095000155",
+        "Valor Recebido": 238.45,
+        "Descrição": "Suco"
+    },
+    {
+        "Código": "00394452000103-1-000889/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 438.0,
+        "Descrição": "Suco"
+    },
+    {
+        "Código": "00394452000103-1-000889/2021",
+        "Empresa Contratada": "GUILHERME DA SILVA DOURADO 02868884164",
+        "CNPJ": "43782095000155",
+        "Valor Recebido": 949.96,
+        "Descrição": "Pão de queijo"
+    },
+    {
+        "Código": "00394452000103-1-000889/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 1848.4,
+        "Descrição": "Leite em pó"
+    },
+    {
+        "Código": "00394452000103-1-000889/2021",
+        "Empresa Contratada": "DHEMERSON RODRIGUES DOS SANTOS 04235216163",
+        "CNPJ": "42559170000150",
+        "Valor Recebido": 45.0,
+        "Descrição": "Adoçante"
+    },
+    {
+        "Código": "00394452000103-1-000889/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 689.77,
+        "Descrição": "Adoçante"
+    },
+    {
+        "Código": "00394452000103-1-000889/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 189.0,
+        "Descrição": "Chá alimentação"
+    },
+    {
+        "Código": "00394452000103-1-000889/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 199.8,
+        "Descrição": "Talher descartável"
+    },
+    {
+        "Código": "00394452000103-1-000889/2021",
+        "Empresa Contratada": "GUILHERME DA SILVA DOURADO 02868884164",
+        "CNPJ": "43782095000155",
+        "Valor Recebido": 117.97,
+        "Descrição": "Biscoito"
+    },
+    {
+        "Código": "00394452000103-1-000889/2021",
+        "Empresa Contratada": "GUILHERME DA SILVA DOURADO 02868884164",
+        "CNPJ": "43782095000155",
+        "Valor Recebido": 118.03,
+        "Descrição": "Biscoito"
+    },
+    {
+        "Código": "00394429000100-1-000058/2021",
+        "Empresa Contratada": "META COMERCIO DE MATERIAIS DE CONSTRUCAO E SERVICOS LTD",
+        "CNPJ": "40186167000103",
+        "Valor Recebido": 13350.0,
+        "Descrição": "Sistema controle acesso"
+    },
+    {
+        "Código": "00394494000136-1-000028/2021",
+        "Empresa Contratada": "KAPTIVA CONSULTORIA, TREINAMENTO E DESENVOLVIMENTO LTDA",
+        "CNPJ": "10264142000110",
+        "Valor Recebido": 33336.0,
+        "Descrição": "Serviço de acessibilidade à informação e à comunicação"
+    },
+    {
+        "Código": "00394452000103-1-000937/2021",
+        "Empresa Contratada": "FERRAGENS TENDTUDO LTDA",
+        "CNPJ": "19915068000129",
+        "Valor Recebido": 45.0,
+        "Descrição": "Suporte de videocassete , televisao"
+    },
+    {
+        "Código": "00394452000103-1-000957/2021",
+        "Empresa Contratada": "INOVA TECNOLOGIAS DE INFORMACAO E REPRESENTACOES LTDA",
+        "CNPJ": "01427728000167",
+        "Valor Recebido": 24000.0,
+        "Descrição": "Treinamento informática - operação , digitação"
+    },
+    {
+        "Código": "00394452000103-1-000962/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 650.0,
+        "Descrição": "Termômetro clínico"
+    },
+    {
+        "Código": "00394452000103-1-000962/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 1799.99,
+        "Descrição": "Filtro aquário "
+    },
+    {
+        "Código": "00394452000103-1-000962/2021",
+        "Empresa Contratada": "OPTATEC IMPRESSAO DIGITAL LTDA",
+        "CNPJ": "41106192000100",
+        "Valor Recebido": 210.0,
+        "Descrição": "Adesivo colagem"
+    },
+    {
+        "Código": "00394452000103-1-000962/2021",
+        "Empresa Contratada": "OPTATEC IMPRESSAO DIGITAL LTDA",
+        "CNPJ": "41106192000100",
+        "Valor Recebido": 210.0,
+        "Descrição": "Adesivo colagem"
+    },
+    {
+        "Código": "00394452000103-1-000962/2021",
+        "Empresa Contratada": "OPTATEC IMPRESSAO DIGITAL LTDA",
+        "CNPJ": "41106192000100",
+        "Valor Recebido": 140.0,
+        "Descrição": "Adesivo colagem"
+    },
+    {
+        "Código": "00394452000103-1-000962/2021",
+        "Empresa Contratada": "OPTATEC IMPRESSAO DIGITAL LTDA",
+        "CNPJ": "41106192000100",
+        "Valor Recebido": 190.0,
+        "Descrição": "Adesivo colagem"
+    },
+    {
+        "Código": "00394460000141-1-000045/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 4800.0,
+        "Descrição": "Boroscopio"
+    },
+    {
+        "Código": "00394684000153-1-000014/2021",
+        "Empresa Contratada": "AZTER SOLUCOES LTDA",
+        "CNPJ": "10221304000132",
+        "Valor Recebido": 11987.5,
+        "Descrição": "Fornecimento de refeições , lanches , salgados , doces"
+    },
+    {
+        "Código": "00394452000103-1-000992/2021",
+        "Empresa Contratada": "AR FIORENZANO DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+        "CNPJ": "10869890000126",
+        "Valor Recebido": 9439.0,
+        "Descrição": "Hidróxido de ferro iii"
+    },
+    {
+        "Código": "00394452000103-1-000994/2021",
+        "Empresa Contratada": "CONFIDENCE SISTEMAS DE SEGURANCA EIRELI",
+        "CNPJ": "08473776000130",
+        "Valor Recebido": 12899.98,
+        "Descrição": "Serviço de rastreamento"
+    },
+    {
+        "Código": "00394502000144-1-000136/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 1400.0,
+        "Descrição": "Guardanapo de papel"
+    },
+    {
+        "Código": "00394502000144-1-000136/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 1196.0,
+        "Descrição": "Guardanapo de papel"
+    },
+    {
+        "Código": "00394502000144-1-000136/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 1500.0,
+        "Descrição": "Guardanapo de papel"
+    },
+    {
+        "Código": "00394502000144-1-000136/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 1199.99,
+        "Descrição": "Guardanapo de papel"
+    },
+    {
+        "Código": "00394502000144-1-000136/2021",
+        "Empresa Contratada": "RAIMUNDA RODRIGUES DOS SANTOS 04772148515",
+        "CNPJ": "42696901000100",
+        "Valor Recebido": 1330.5,
+        "Descrição": "Bobina plástica"
+    },
+    {
+        "Código": "00394502000144-1-000136/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 599.0,
+        "Descrição": "Colher"
+    },
+    {
+        "Código": "00394502000144-1-000136/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 700.0,
+        "Descrição": "Garfo mesa"
+    },
+    {
+        "Código": "00394502000144-1-000136/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 1536.0,
+        "Descrição": "Copo descartável"
+    },
+    {
+        "Código": "10898596000142-1-000008/2021",
+        "Empresa Contratada": "RAISA DE SA FEITOSA CAVALCANTE 02370542136",
+        "CNPJ": "30643059000169",
+        "Valor Recebido": 18900.0,
+        "Descrição": "Produção , veiculação - programa teleducativo , documentário, entrevista , debate"
+    },
+    {
+        "Código": "00394452000103-1-001012/2021",
+        "Empresa Contratada": "MHL MANUTENCAO ELETRICA PREDIAL LTDA",
+        "CNPJ": "11758334000145",
+        "Valor Recebido": 26120.0,
+        "Descrição": "Instalação , manutenção elétrica - predial, industrial"
+    },
+    {
+        "Código": "00394452000103-1-001017/2021",
+        "Empresa Contratada": "GABRIEL LOPES MENEZES 05226905130",
+        "CNPJ": "43001604000165",
+        "Valor Recebido": 1578.0,
+        "Descrição": "Pneu veículo automotivo"
+    },
+    {
+        "Código": "00394452000103-1-001017/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 3177.84,
+        "Descrição": "Pneu veículo automotivo"
+    },
+    {
+        "Código": "00394452000103-1-001017/2021",
+        "Empresa Contratada": "GABRIEL LOPES MENEZES 05226905130",
+        "CNPJ": "43001604000165",
+        "Valor Recebido": 1669.78,
+        "Descrição": "Pneu veículo automotivo"
+    },
+    {
+        "Código": "00394452000103-1-001017/2021",
+        "Empresa Contratada": "GABRIEL LOPES MENEZES 05226905130",
+        "CNPJ": "43001604000165",
+        "Valor Recebido": 1728.57,
+        "Descrição": "Pneu veículo automotivo"
+    },
+    {
+        "Código": "00394452000103-1-001017/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 3592.24,
+        "Descrição": "Pneu veículo automotivo"
+    },
+    {
+        "Código": "00394452000103-1-001017/2021",
+        "Empresa Contratada": "BOREAL SUL COMERCIAL LTDA",
+        "CNPJ": "39422751000131",
+        "Valor Recebido": 4416.0,
+        "Descrição": "Pneu veículo automotivo"
+    },
+    {
+        "Código": "00394452000103-1-001017/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 9951.84,
+        "Descrição": "Pneu veículo automotivo"
+    },
+    {
+        "Código": "00394452000103-1-001017/2021",
+        "Empresa Contratada": "ZAMER DISTRIBUIDORA DE BATERIAS LTDA",
+        "CNPJ": "01626696000129",
+        "Valor Recebido": 2776.0,
+        "Descrição": "Bateria automotiva"
+    },
+    {
+        "Código": "00394452000103-1-001017/2021",
+        "Empresa Contratada": "ZAMER DISTRIBUIDORA DE BATERIAS LTDA",
+        "CNPJ": "01626696000129",
+        "Valor Recebido": 2384.0,
+        "Descrição": "Bateria automotiva"
+    },
+    {
+        "Código": "00394452000103-1-001017/2021",
+        "Empresa Contratada": "ZAMER DISTRIBUIDORA DE BATERIAS LTDA",
+        "CNPJ": "01626696000129",
+        "Valor Recebido": 556.0,
+        "Descrição": "Bateria automotiva"
+    },
+    {
+        "Código": "00394452000103-1-001021/2021",
+        "Empresa Contratada": "SUPER MIL REPRESENTACOES EIRELI",
+        "CNPJ": "08637053000120",
+        "Valor Recebido": 23512.78,
+        "Descrição": "Letreiro luminoso"
+    },
+    {
+        "Código": "00394452000103-1-001053/2021",
+        "Empresa Contratada": "GASBALL ARMAZENADORA E DISTRIBUIDORA LTDA",
+        "CNPJ": "02430968000345",
+        "Valor Recebido": 28140.0,
+        "Descrição": "Gás refino de petróleo"
+    },
+    {
+        "Código": "00394429000100-1-000098/2021",
+        "Empresa Contratada": "MARIA EDUARDA CARVALHO GONCALVES 05546714174",
+        "CNPJ": "41101377000114",
+        "Valor Recebido": 9300.0,
+        "Descrição": "Máscara multiuso"
+    },
+    {
+        "Código": "00394429000100-1-000098/2021",
+        "Empresa Contratada": "MARIA EDUARDA CARVALHO GONCALVES 05546714174",
+        "CNPJ": "41101377000114",
+        "Valor Recebido": 6200.0,
+        "Descrição": "Máscara multiuso"
+    },
+    {
+        "Código": "00394684000153-1-000015/2021",
+        "Empresa Contratada": "AGOS B2G COMERCIAL E SERVICOS EM LICITACOES EIRELI",
+        "CNPJ": "34346979000176",
+        "Valor Recebido": 336.0,
+        "Descrição": "Boné"
+    },
+    {
+        "Código": "00394684000153-1-000015/2021",
+        "Empresa Contratada": "AGOS B2G COMERCIAL E SERVICOS EM LICITACOES EIRELI",
+        "CNPJ": "34346979000176",
+        "Valor Recebido": 210.0,
+        "Descrição": "Pasta de calcado"
+    },
+    {
+        "Código": "00394684000153-1-000015/2021",
+        "Empresa Contratada": "AGOS B2G COMERCIAL E SERVICOS EM LICITACOES EIRELI",
+        "CNPJ": "34346979000176",
+        "Valor Recebido": 210.0,
+        "Descrição": "Pasta de calcado"
+    },
+    {
+        "Código": "00394684000153-1-000015/2021",
+        "Empresa Contratada": "DOUGLAS HENRIQUE SANTOS EVANGELISTA 04959716509",
+        "CNPJ": "42125127000187",
+        "Valor Recebido": 3749.76,
+        "Descrição": "Uniforme masculino"
+    },
+    {
+        "Código": "00394684000153-1-000015/2021",
+        "Empresa Contratada": "RV COMPANY COMERCIO E SERVICO LTDA",
+        "CNPJ": "36495092000175",
+        "Valor Recebido": 1259.64,
+        "Descrição": "Pasta de calcado"
+    },
+    {
+        "Código": "00394684000153-1-000015/2021",
+        "Empresa Contratada": "AGOS B2G COMERCIAL E SERVICOS EM LICITACOES EIRELI",
+        "CNPJ": "34346979000176",
+        "Valor Recebido": 1920.0,
+        "Descrição": "Pasta de calcado"
+    },
+    {
+        "Código": "00394684000153-1-000015/2021",
+        "Empresa Contratada": "RV COMPANY COMERCIO E SERVICO LTDA",
+        "CNPJ": "36495092000175",
+        "Valor Recebido": 207.9,
+        "Descrição": "Luva tipo social"
+    },
+    {
+        "Código": "00394684000153-1-000015/2021",
+        "Empresa Contratada": "DANIELY AGUIAR DA SILVA 31110139870",
+        "CNPJ": "14987491000110",
+        "Valor Recebido": 3499.8,
+        "Descrição": "Luva tipo social"
+    },
+    {
+        "Código": "00394684000153-1-000016/2021",
+        "Empresa Contratada": "SOARES COMERCIO E LICITACOES LTDA",
+        "CNPJ": "27494420000128",
+        "Valor Recebido": 2195.9,
+        "Descrição": "Espera , ancoragem ( epi )"
+    },
+    {
+        "Código": "00394684000153-1-000016/2021",
+        "Empresa Contratada": "SOARES COMERCIO E LICITACOES LTDA",
+        "CNPJ": "27494420000128",
+        "Valor Recebido": 2195.9,
+        "Descrição": "Espera , ancoragem ( epi )"
+    },
+    {
+        "Código": "00394684000153-1-000016/2021",
+        "Empresa Contratada": "SOARES COMERCIO E LICITACOES LTDA",
+        "CNPJ": "27494420000128",
+        "Valor Recebido": 625.8,
+        "Descrição": "Espera , ancoragem ( epi )"
+    },
+    {
+        "Código": "00394684000153-1-000016/2021",
+        "Empresa Contratada": "SOARES COMERCIO E LICITACOES LTDA",
+        "CNPJ": "27494420000128",
+        "Valor Recebido": 294.12,
+        "Descrição": "Espera , ancoragem ( epi )"
+    },
+    {
+        "Código": "00394684000153-1-000016/2021",
+        "Empresa Contratada": "AGROVETERINARIA RM EIRELI",
+        "CNPJ": "10453573000124",
+        "Valor Recebido": 318.0,
+        "Descrição": "Espera , ancoragem ( epi )"
+    },
+    {
+        "Código": "00394684000153-1-000016/2021",
+        "Empresa Contratada": "AGROVETERINARIA RM EIRELI",
+        "CNPJ": "10453573000124",
+        "Valor Recebido": 829.98,
+        "Descrição": "Espera , ancoragem ( epi )"
+    },
+    {
+        "Código": "00394684000153-1-000016/2021",
+        "Empresa Contratada": "DIEGO KAVABATA ALMEIDA BARROS",
+        "CNPJ": "34249129000150",
+        "Valor Recebido": 800.88,
+        "Descrição": "Espera , ancoragem ( epi )"
+    },
+    {
+        "Código": "00394684000153-1-000016/2021",
+        "Empresa Contratada": "FARED COMERCIAL LTDA",
+        "CNPJ": "07259386000108",
+        "Valor Recebido": 449.96,
+        "Descrição": "Espera , ancoragem ( epi )"
+    },
+    {
+        "Código": "00394684000153-1-000016/2021",
+        "Empresa Contratada": "GREEN & WHITE DISTRIBUICAO DE ALIMENTOS LTDA",
+        "CNPJ": "29432207000117",
+        "Valor Recebido": 375.0,
+        "Descrição": "Espera , ancoragem ( epi )"
+    },
+    {
+        "Código": "00394452000103-1-001058/2021",
+        "Empresa Contratada": "JOCICLEIA SILVA PINHEIRO 22524845869",
+        "CNPJ": "41041493000195",
+        "Valor Recebido": 1058.79,
+        "Descrição": "Reservatório"
+    },
+    {
+        "Código": "00394452000103-1-001058/2021",
+        "Empresa Contratada": "M.K.R. COMERCIO DE EQUIPAMENTOS EIRELI",
+        "CNPJ": "31499939000176",
+        "Valor Recebido": 1780.0,
+        "Descrição": "Balança comercial"
+    },
+    {
+        "Código": "00394452000103-1-001059/2021",
+        "Empresa Contratada": "JTH COMERCIO LTDA",
+        "CNPJ": "30680100000177",
+        "Valor Recebido": 5442.3,
+        "Descrição": "Container"
+    },
+    {
+        "Código": "00394452000103-1-001059/2021",
+        "Empresa Contratada": "BRUNO ARAGAO FONTENELE",
+        "CNPJ": "19434535000107",
+        "Valor Recebido": 739.99,
+        "Descrição": "Exaustor"
+    },
+    {
+        "Código": "00375114000116-1-000001/2021",
+        "Empresa Contratada": "2SP COMERCIO DE ELETRONICOS EIRELI",
+        "CNPJ": "33216487000101",
+        "Valor Recebido": 25096.0,
+        "Descrição": "Serviço de licença pelo uso de software"
+    },
+    {
+        "Código": "10898596000142-1-000009/2021",
+        "Empresa Contratada": "MJ RIBEIRO - COMERCIAL CENTRO SUL",
+        "CNPJ": "22901297000107",
+        "Valor Recebido": 14980.0,
+        "Descrição": "Caixa Arquivo"
+    },
+    {
+        "Código": "10898596000142-1-000009/2021",
+        "Empresa Contratada": "MJ RIBEIRO - COMERCIAL CENTRO SUL",
+        "CNPJ": "22901297000107",
+        "Valor Recebido": 11970.0,
+        "Descrição": "Caixa Arquivo"
+    },
+    {
+        "Código": "10898596000142-1-000010/2021",
+        "Empresa Contratada": "AR RP CERTIFICACAO DIGITAL EIRELI",
+        "CNPJ": "21308480000122",
+        "Valor Recebido": 420.0,
+        "Descrição": "Emissão de Certificado Digital A3, sem Token Pessoa Jurídica"
+    },
+    {
+        "Código": "10898596000142-1-000010/2021",
+        "Empresa Contratada": "AR RP CERTIFICACAO DIGITAL EIRELI",
+        "CNPJ": "21308480000122",
+        "Valor Recebido": 6000.0,
+        "Descrição": "Emissão de Certificado Digital A3, sem Token Pessoa   Física"
+    },
+    {
+        "Código": "10898596000142-1-000011/2021",
+        "Empresa Contratada": "OPTIMA ENGENHARIA E SOLUCOES CORPORATIVAS EIRELI",
+        "CNPJ": "01555000000110",
+        "Valor Recebido": 40000.0,
+        "Descrição": "Instalação / Remoção de Divisória / Painel / Persiana / janela / porta / esquadria em geral"
+    },
+    {
+        "Código": "86900545000170-1-000002/2021",
+        "Empresa Contratada": "ASA COMERCIO E DISTRIBUIDOR DE PRODUTOS DE INFORMATICA",
+        "CNPJ": "34910336000103",
+        "Valor Recebido": 16980.0,
+        "Descrição": "Cartucho toner impressora lexmark"
+    },
+    {
+        "Código": "00394452000103-1-001116/2021",
+        "Empresa Contratada": "EDINEIA DA SILVA EDUARDO - BANCA DO CARTUCHO EIRELI",
+        "CNPJ": "36756134000184",
+        "Valor Recebido": 2206.65,
+        "Descrição": "Cartucho toner impressora lexmark"
+    },
+    {
+        "Código": "00394452000103-1-001136/2021",
+        "Empresa Contratada": "MAURICIO KEDE FLOR",
+        "CNPJ": "12328181000169",
+        "Valor Recebido": 4500.0,
+        "Descrição": "Elaboração / Análise Projeto - Engenharia"
+    },
+    {
         "Código": "00889834000108-1-000001/2022",
         "Empresa Contratada": "BIDME INTERMEDIACOES E MARKETING LTDA.",
         "CNPJ": "23090165000105",
@@ -215,54 +2567,5 @@
         "CNPJ": "17866345000125",
         "Valor Recebido": 5590.0,
         "Descrição": "Cessão Temporária de Direitos Sobre Programas de Computador Locação de Software Cessão Temporária de Direitos Sobre Programas de Computador Locação de Software"
-    },
-    {
-        "Código": "00579987000140-1-000001/2024",
-        "Empresa Contratada": "HF COMERCIO E SERVICOS LTDA",
-        "CNPJ": "45127148000120",
-        "Valor Recebido": 10876.0,
-        "Descrição": "Manutenção / Instalação - Nobreak"
-    },
-    {
-        "Código": "26989715000102-1-000003/2024",
-        "Empresa Contratada": "DOULOS SERVICE LTDA",
-        "CNPJ": "49424137000162",
-        "Valor Recebido": 2638.9,
-        "Descrição": "Café"
-    },
-    {
-        "Código": "37115383000153-1-000002/2024",
-        "Empresa Contratada": "FORTE SOLUCOES AMBIENTAIS LTDA",
-        "CNPJ": "17731655000132",
-        "Valor Recebido": 34000.0,
-        "Descrição": "Plano Gerenciamento Resíduos Sólidos"
-    },
-    {
-        "Código": "03658507000125-1-000002/2024",
-        "Empresa Contratada": "DOUBLE SOLUCOES E TECNOLOGIA LTDA",
-        "CNPJ": "26587509000176",
-        "Valor Recebido": 20274.0,
-        "Descrição": "Prestação de Serviços de Portaria / Recepção"
-    },
-    {
-        "Código": "00531640000128-1-000213/2023",
-        "Empresa Contratada": "PLANO A COMERCIO DE PRODUTOS PROMOCIONAIS LTDA",
-        "CNPJ": "46108279000122",
-        "Valor Recebido": 8750.0,
-        "Descrição": "Sacola material: algodão cru, largura: 33, tipo alça: tiracolo, material alça: algodão cru, características adicionais: conforme modelo, altura: 37, aplicação: acondicionamento de objetos variados, comprimento da alça: 60, gramatura: 165"
-    },
-    {
-        "Código": "00531640000128-1-000213/2023",
-        "Empresa Contratada": "PLANO A COMERCIO DE PRODUTOS PROMOCIONAIS LTDA",
-        "CNPJ": "46108279000122",
-        "Valor Recebido": 5950.0,
-        "Descrição": "Sacola material: algodão cru, largura: 33, tipo alça: tiracolo, material alça: algodão cru, características adicionais: conforme modelo, altura: 37, aplicação: acondicionamento de objetos variados, comprimento da alça: 60, gramatura: 165"
-    },
-    {
-        "Código": "00531640000128-1-000214/2023",
-        "Empresa Contratada": "ATHALAIA GRAFICA E EDITORA LTDA",
-        "CNPJ": "02717866000143",
-        "Valor Recebido": 15660.0,
-        "Descrição": "Impresso Padronizado capa: papel  monolúcido  180 g, encadernação em brochura, características adicionais: conforme modelo do órgão, comprimento: 230, cor: 4/4, gramatura: 75, largura: 160, material: apergaminhado/sulfite, quantidade páginas: 500, tipo: revista"
     }
 ]
